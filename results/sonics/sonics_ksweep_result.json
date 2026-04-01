@@ -1,0 +1,17 @@
+{
+  "method_family": "top_k_cosine_mert_only",
+  "k_sweep": {
+    "1": 0.8387,
+    "3": 0.8456,
+    "5": 0.8425,
+    "10": 0.85,
+    "20": 0.845
+  },
+  "best_k": 10,
+  "best_auc": 0.85,
+  "banded_diag_auc": 0.7488,
+  "improvement": 0.1012,
+  "combined_topk_auc": 0.7244,
+  "note_combined": "SF+HP extracted as single track-level vector (first 30s). Tiling to per-segment dimensions adds constant noise to Top-K comparison, diluting MERT segment discrimination. For Top-K, MERT alone is correct. SF+HP work at track level (banded diagonal) not segment level (Top-K).",
+  "interpretation": "AI generators do not preserve temporal structure of the source. Banded diagonal assumes borrowed content appears at the same relative timestamp — wrong for AI attribution. Top-K finds the most similar segment pair regardless of time — correct for AI attribution."
+}

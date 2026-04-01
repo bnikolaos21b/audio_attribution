@@ -1,0 +1,40 @@
+{
+  "project_root": ".",
+  "zip_path": "not-available",
+  "csv_path": "not-available",
+  "requirements_path": "requirements.txt",
+  "feature_dir": "not-available",
+  "covers80_feature_dir": "not-available",
+  "checkpoint_path": "models/siamese_best_v2.pt",
+  "device": "cuda",
+  "checkpoint_input_dim": 782,
+  "cached_feature_dim_verified": 782,
+  "live_compare_tracks_dim_verified": 1294,
+  "usable_pairs": 57,
+  "pair_relation_distribution": {
+    "plag": 23,
+    "plag_doubt": 18,
+    "remake": 16
+  },
+  "dual_encoder_sample_shapes": [
+    [
+      768
+    ],
+    [
+      512
+    ],
+    [
+      768
+    ],
+    [
+      512
+    ]
+  ],
+  "dual_encoder_sample_label": 1.0,
+  "baseline_smoke_pair": 1,
+  "baseline_smoke_prob": 0.190498948097229,
+  "warning_repo_split": "train._group_aware_split groups by path_a, not true pair_number",
+  "helpers_module": "not-available",
+  "baseline_results_csv": "results/baseline/baseline_multi_seed_results.csv",
+  "saved_clap_cache_dir": "not-available"
+}

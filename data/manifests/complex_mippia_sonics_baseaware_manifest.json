@@ -1,0 +1,38 @@
+{
+  "seed": 123,
+  "core_mippia_pairs": 156,
+  "core_mippia_pair_kinds": {
+    "mippia_negative": 117,
+    "mippia_positive": 39
+  },
+  "usable_mippia_positive_originals": 39,
+  "sampled_sonics_files": 160,
+  "sampled_sonics_unique_base_ids": 80,
+  "sonics_same_base_positives": 80,
+  "sonics_diff_base_negatives": 80,
+  "mippia_sonics_negatives": 156,
+  "combined_pair_count": 472,
+  "combined_pair_kinds": {
+    "mippia_sonics_negative": 156,
+    "mippia_negative": 117,
+    "sonics_same_base_positive": 80,
+    "sonics_diff_base_negative": 80,
+    "mippia_positive": 39
+  },
+  "combined_source_groups": {
+    "sonics_sonics": 160,
+    "mippia": 156,
+    "mippia_sonics": 156
+  },
+  "combined_label_counts": {
+    "0.0": 353,
+    "1.0": 119
+  },
+  "config": {
+    "sonics_per_original": 4,
+    "sonics_same_base_positive_rule": "same fake_<id>, different variant file",
+    "sonics_diff_base_negative_rule": "different fake_<id>",
+    "sample_dir": "features/sonics_cache/sampled_mp3_baseaware"
+  },
+  "pairs_csv": "features/reports/complex_mippia_sonics_pairs_baseaware.csv"
+}

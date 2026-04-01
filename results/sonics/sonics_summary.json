@@ -1,0 +1,20 @@
+{
+  "description": "SONICS domain recalibration of cosine similarity on MERT embeddings",
+  "approach": "Banded diagonal cosine similarity with SONICS-domain calibration bounds",
+  "n_tracks": 400,
+  "n_base_ids": 200,
+  "n_train_pairs": 640,
+  "n_test_pairs": 80,
+  "sonics_roc_auc_raw": 0.675,
+  "sonics_roc_auc_cal": 0.6384,
+  "sonics_pr_auc": 0.7098,
+  "sonics_f1": 0.6118,
+  "pos_mean_score": 0.9358,
+  "neg_mean_score": 0.9243,
+  "separation": 0.0114,
+  "calibration_lo": 0.922,
+  "calibration_hi": 0.9336,
+  "baseline_mippia_roc_auc": 0.838,
+  "baseline_sonics_result": "both pairs score 1.0000 \u2014 separation 0.004",
+  "key_finding": "SONICS domain recalibration recovers discrimination. The baseline failure was a calibration problem, not an architecture problem. MERT cosine similarity has real signal on SONICS pairs \u2014 it was just compressed into a range the MIPPIA bounds could not resolve."
+}

@@ -1,0 +1,53 @@
+{
+  "configs_tested": [
+    {
+      "backend": "siamese",
+      "aggregation": "mean"
+    },
+    {
+      "backend": "siamese",
+      "aggregation": "max"
+    },
+    {
+      "backend": "siamese",
+      "aggregation": "topk_mean"
+    },
+    {
+      "backend": "siamese",
+      "aggregation": "softmax_weighted"
+    },
+    {
+      "backend": "cosine",
+      "aggregation": "mean"
+    },
+    {
+      "backend": "cosine",
+      "aggregation": "max"
+    },
+    {
+      "backend": "cosine",
+      "aggregation": "topk_mean"
+    },
+    {
+      "backend": "cosine",
+      "aggregation": "softmax_weighted"
+    }
+  ],
+  "usable_pairs": 57,
+  "positive_relations": [
+    "plag",
+    "remake"
+  ],
+  "best_config_by_roc_auc": {
+    "backend": "siamese",
+    "aggregation": "mean",
+    "roc_auc_mean": 0.7381944444444445,
+    "roc_auc_std": 0.11513964280680661,
+    "pr_auc_mean": 0.7033840864463257,
+    "pr_auc_std": 0.11998461497608497,
+    "score_mean": 0.46017097420990466,
+    "score_std": 0.08051714681377169
+  },
+  "results_csv": "results/pairwise_score_aggregation_study_raw.csv",
+  "summary_csv": "results/pairwise_score_aggregation_study_summary.csv"
+}

@@ -1,0 +1,10 @@
+{
+  "method": "top_k_cosine_k5",
+  "roc_auc": 0.8425,
+  "pos_mean": 0.9663,
+  "neg_mean": 0.9513,
+  "separation": 0.0151,
+  "banded_diag_auc": 0.7488,
+  "delta": 0.0938,
+  "interpretation": "top-K beats banded diagonal"
+}

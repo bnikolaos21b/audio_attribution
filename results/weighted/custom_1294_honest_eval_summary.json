@@ -1,0 +1,34 @@
+{
+  "model_path": "models/siamese_custom_1294_weighted_best.pt",
+  "mippia_feature_dir_1294": "features/",
+  "usable_mippia_pairs": 57,
+  "pair_distribution": {
+    "plag": 23,
+    "plag_doubt": 18,
+    "remake": 16
+  },
+  "mean": {
+    "n_test_pairs": 18.0,
+    "n_eval_pos": 12.0,
+    "n_eval_neg": 12.0,
+    "roc_auc": 0.738889,
+    "pr_auc": 0.701243,
+    "accuracy": 0.733333,
+    "precision": 0.699651,
+    "recall": 0.833333,
+    "f1": 0.757203
+  },
+  "std": {
+    "n_test_pairs": 0.0,
+    "n_eval_pos": 0.0,
+    "n_eval_neg": 0.0,
+    "roc_auc": 0.129555,
+    "pr_auc": 0.145151,
+    "accuracy": 0.083795,
+    "precision": 0.081982,
+    "recall": 0.111111,
+    "f1": 0.075815
+  },
+  "results_csv": "results/weighted/custom_1294_honest_eval_multi_seed.csv",
+  "scores_json": "not-available"
+}

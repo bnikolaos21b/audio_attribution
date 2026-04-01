@@ -1,0 +1,33 @@
+{
+  "perturbation_importance": {
+    "spectral_flatness_dim781": 0.49086201190948486,
+    "mert_top_dim": 498,
+    "mert_top_dim_importance": 0.18640699982643127,
+    "mert_mean_importance": 0.00043700000969693065,
+    "harmperc_dim780": 0.04277300089597702,
+    "chroma_mean_importance": 0.00020199999562464654,
+    "total_experiments": 31280,
+    "n_positive_pairs": 40
+  },
+  "cosine_auc_by_subset": {
+    "all_782": 0.6808,
+    "mert_only": 0.6848,
+    "chroma_only": 0.5693,
+    "sf_solo": 0.4932,
+    "harmperc_sf": 0.6461
+  },
+  "mann_whitney_causal": {
+    "sf_within_mean": 2.726599931716919,
+    "sf_between_mean": 3.5882999897003174,
+    "sf_p_value": 0.008898,
+    "sf_effect_r": 0.1813,
+    "sf_within_reduction": 0.24009999632835388,
+    "hp_within_mean": 1.9559999704360962,
+    "hp_between_mean": 3.4886999130249023,
+    "hp_p_value": 0.0,
+    "hp_effect_r": 0.3811,
+    "n_positive_pairs": 40,
+    "n_negative_pairs": 3306
+  },
+  "note": "Perturbation importance = mean drop in model sigmoid output when that dimension is zeroed across all positive pairs. Cosine AUC = cosine similarity AUC on full cross-product pairs. Mann-Whitney: one-sided test, alternative='less' (within < between)."
+}

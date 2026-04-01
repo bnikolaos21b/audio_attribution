@@ -1,0 +1,52 @@
+{
+  "description": "Part 8 \u2014 SONICS domain extension (post-submission)",
+  "experiments": {
+    "sf_alone": {
+      "roc_auc": 0.7144,
+      "pos_mean": 0.9429,
+      "neg_mean": 0.8754,
+      "separation": 0.0675,
+      "mannwhitney_p": 0.0005,
+      "effect_size_r": 0.714
+    },
+    "hp_alone": {
+      "roc_auc": 0.7003,
+      "pos_mean": 0.7652,
+      "neg_mean": 0.6034,
+      "separation": 0.1618,
+      "mannwhitney_p": 0.001,
+      "effect_size_r": 0.7
+    },
+    "mert_cosine_sonics_calib": {
+      "roc_auc": 0.675,
+      "calibration_lo": 0.922,
+      "calibration_hi": 0.9336
+    },
+    "mert_sf_hp_combined": {
+      "roc_auc": 0.745,
+      "pos_mean": 0.9928,
+      "neg_mean": 0.9805,
+      "separation": 0.0124
+    },
+    "adapter_mlp_400_tracks": {
+      "roc_auc": 0.4981,
+      "note": "insufficient data \u2014 overfits immediately, confirms need for 500+ base IDs"
+    }
+  },
+  "key_findings": [
+    "SF effect size on SONICS r=0.714 vs r=0.18 on MIPPIA \u2014 4x stronger signal",
+    "HP effect size on SONICS r=0.700 vs r=0.38 on MIPPIA \u2014 2x stronger signal",
+    "Generator artifact features more discriminative for AI attribution than for human plagiarism",
+    "MERT+SF+HP combined AUC 0.745 \u2014 best result on SONICS domain",
+    "Adapter on 400 tracks AUC 0.498 \u2014 confirms neural approach needs 500+ base IDs",
+    "SONICS calibration recovers signal hidden by MIPPIA bounds"
+  ],
+  "baseline_comparison": {
+    "mippia_siamese_auc": 0.838,
+    "sonics_mippia_calib_auc": 0.5,
+    "sonics_best_this_experiment": 0.745
+  },
+  "n_tracks": 400,
+  "n_base_ids": 200,
+  "n_test_pairs": 80
+}

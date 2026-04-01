@@ -1,0 +1,15 @@
+{
+  "best_val_loss": 0.4766675739918115,
+  "epochs_completed": 43,
+  "training_minutes": 3.4965,
+  "train_pairs": 366,
+  "val_pairs": 106,
+  "train_positive_count": 95,
+  "train_negative_count": 271,
+  "val_positive_count": 24,
+  "val_negative_count": 82,
+  "runtime_best_model": "not-available",
+  "drive_best_model": "models/siamese_custom_1294_best.pt",
+  "drive_curve": "not-available",
+  "warning": "Custom 1294 training succeeded by bypassing broken repo loader. Honest final eval must still be done on held-out MIPPIA only."
+}

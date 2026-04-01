@@ -1,0 +1,26 @@
+{
+  "methods_tested": [
+    "siamese_mean_global",
+    "cosine_mean_global",
+    "dtw_cosine_mean_path",
+    "dtw_cosine_max_path",
+    "banded_diagonal_mean",
+    "banded_diagonal_max"
+  ],
+  "usable_pairs": 57,
+  "positive_relations": [
+    "plag",
+    "remake"
+  ],
+  "best_config_by_roc_auc": {
+    "method": "banded_diagonal_mean",
+    "roc_auc_mean": 0.742361111111111,
+    "roc_auc_std": 0.07330693618617626,
+    "pr_auc_mean": 0.7841486607389235,
+    "pr_auc_std": 0.06795753621710428,
+    "score_mean": 0.9517668212453524,
+    "score_std": 0.027241108537575033
+  },
+  "results_csv": "results/temporal_alignment_scoring_study_raw.csv",
+  "summary_csv": "results/temporal_alignment_scoring_study_summary.csv"
+}

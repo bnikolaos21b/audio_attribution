@@ -1,0 +1,19 @@
+{
+  "best_method": "MERT+SF+HP combined cosine",
+  "best_auc_sonics": 0.745,
+  "sf_auc": 0.7144,
+  "hp_auc": 0.7003,
+  "mert_auc": 0.675,
+  "adapter_auc": 0.4981,
+  "cross_gen_auc": "N/A \u2014 both zip archives contained single-generator base IDs",
+  "sf_effect_mippia": 0.18,
+  "sf_effect_sonics": 0.714,
+  "hp_effect_mippia": 0.38,
+  "hp_effect_sonics": 0.7,
+  "calibration_lo": 0.922,
+  "calibration_hi": 0.9336,
+  "n_tracks": 400,
+  "n_base_ids": 200,
+  "function": "src/part8_sonics_similarity.py",
+  "note_cross_gen": "Cross-generator testing (suno vs udio, same source) was attempted but SONICS parts 01-02 contain single-generator base IDs only. Parts 03-10 would be needed to obtain cross-generator pairs. Infrastructure constraint \u2014 not a design limitation."
+}
