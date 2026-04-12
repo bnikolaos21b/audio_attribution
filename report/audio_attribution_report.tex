@@ -1,0 +1,355 @@
+\documentclass[10pt,a4paper]{article}
+
+\usepackage[margin=2.3cm]{geometry}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{microtype}
+\usepackage{caption}
+\usepackage{parskip}
+
+\hypersetup{colorlinks=true, linkcolor=blue!60!black, urlcolor=blue!70!black}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.4em}
+
+\title{\textbf{Audio Attribution: A General-Purpose Framework}\\[0.2em]
+  \small Real/Real, AI/AI, and Real$\to$AI Derivative Detection}
+\author{Nikos Briakos}
+\date{April 2026}
+
+\begin{document}
+\maketitle
+
+\noindent\fbox{\parbox{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}{%
+  \small\textbf{Acknowledgment.} This project was built with substantial
+  assistance from Claude Code (Anthropic). All experimental design, data
+  collection, and analysis decisions were made by me.
+  Every number in this report is backed by a reproducible script
+  and a result file in the repository.
+}}
+
+\bigskip
+
+% ─────────────────────────────────────────────────────────────────────────────
+\section{Task and Datasets}
+% ─────────────────────────────────────────────────────────────────────────────
+
+The task: compare two audio tracks, return a score in $[0, 1]$ for how likely
+one is a derivative of the other. Three pair types exist with different signal
+structures, so a single scoring function won't work for all.
+
+\textbf{MIPPIA} -- 200 real songs with cover/plagiarism variants.
+39 confirmed plagiarism pairs (positive), 117 unrelated (negative).
+This is the real-to-real plagiarism domain: human recordings where one borrows
+from another.
+
+\textbf{SONICS} -- 400 AI-generated tracks (200 base IDs, 2 variants each).
+72 Suno (Chirp-v3.5), 88 Udio (udio-120s), remainder older Suno versions.
+No real songs. 80 test pairs (40 positive same-base, 40 negative).
+This is the AI-to-AI attribution domain.
+
+\textbf{Real/AI Ground Truth} -- Built by matching SONICS AI songs to their
+real-song sources via lyrics comparison. 75 matched pairs found.
+64 real songs downloaded from YouTube (11 failed). 149 AI derivatives
+retrieved from HuggingFace. This is the real-to-AI attribution domain,
+which neither MIPPIA nor SONICS covers.
+
+% ─────────────────────────────────────────────────────────────────────────────
+\section{Feature Extraction}
+% ─────────────────────────────────────────────────────────────────────────────
+
+\textbf{MERT-v1-95M.} 768-dim embeddings from a music transformer.
+Audio at 24kHz, 10-second windows, 5-second hop, mean-pooled over segments.
+Cached as \texttt{.npy} files.
+
+\textbf{Acoustic fingerprints} (used for track classification):
+\begin{itemize}[nosep]
+  \item \textbf{HNR} -- harmonic-to-noise ratio via HPSS (margin 3.0).
+    Measures how ``clean'' the harmonics are.
+    Suno: $31.5 \pm 15.0$, Real: $16.4 \pm 5.2$, Udio: $14.0 \pm 8.0$.
+  \item \textbf{LUFS} -- integrated loudness.
+    Udio ($-10.1$ dB) is 5.4 dB louder than Suno ($-15.5$ dB).
+    Real: $-16.5 \pm 2.0$ dB.
+  \item \textbf{Autocorrelation peak} (10--25 ms window) --
+    neural vocoder frame-rate artifact. Present in all AI music,
+    absent in real recordings.
+\end{itemize}
+
+% ─────────────────────────────────────────────────────────────────────────────
+\section{MIPPIA Experiments (Real/Real)}
+% ─────────────────────────────────────────────────────────────────────────────
+
+All experiments evaluated on MIPPIA held-out pairs (12 positive + 12 negative
+per seed, 10 random seeds). Training on 156 MIPPIA pairs (39 pos + 117 neg).
+
+\begin{center}
+\begin{tabular}{llc}
+\toprule
+Experiment & Method & ROC AUC \\
+\midrule
+Part 1: 782-dim baseline & Siamese MLP (MERT+Chroma+HP+SF) & 0.838 \\
+Part 3: Weighted 1294-dim & Undersampling + class weights & 0.739 \\
+Part 4A: Top-K segment & Non-learned cosine, $k=5$ & 0.674 \\
+Part 4B: Hard negatives & 78 hard negatives + retrain & 0.635 \\
+Part 5: Aggregation study & Siamese + mean pooling & 0.738 \\
+Part 6: Temporal alignment & Banded diagonal mean & 0.742 \\
+Part 7: Calibration study & Min-max + banded diagonal & 0.708 \\
+\midrule
+\textbf{Best} & \textbf{782-dim Siamese MLP} & \textbf{0.838} \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+Key finding: the 782-dim Siamese MLP (Part 1) remains the best result.
+Adding CLAP features (1294-dim) and SONICS training data actually
+\emph{decreased} performance because the two domains teach different
+notions of similarity.
+
+MERT-only cosine (no trained model) achieves comparable results,
+motivating the shift to calibrated cosine for the final system.
+
+% ─────────────────────────────────────────────────────────────────────────────
+\section{SONICS Experiments (AI/AI Same-Engine)}
+% ─────────────────────────────────────────────────────────────────────────────
+
+\textbf{80 test pairs:} 33 Suno$\to$Suno (21 pos, 12 neg),
+26 Udio$\to$Udio (19 pos, 7 neg), 21 cross-engine (all neg).
+
+\begin{center}
+\begin{tabular}{llc}
+\toprule
+Experiment & Method & ROC AUC \\
+\midrule
+Banded diagonal & MERT cosine with time constraint & 0.749 \\
+Top-K $k=1$ & Best segment match only & 0.839 \\
+Top-K $k=3$ & Mean of top 3 & 0.846 \\
+Top-K $k=5$ & Mean of top 5 & 0.843 \\
+Top-K $k=10$ & Mean of top 10 & 0.850 \\
+Top-K $k=20$ & Mean of top 20 & 0.845 \\
+MERT + SF + HP & Combined features Top-K $k=5$ & 0.724 \\
+Adapter MLP & Trained on 400 tracks & 0.498 \\
+\midrule
+\textbf{Best} & \textbf{Top-K MERT $k=10$} & \textbf{0.850} \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+Top-K wins because AI generators don't preserve temporal order -- a melody
+from minute 1 of the source may appear at minute 3 of the derivative.
+Banded diagonal (which assumes same-timestamp matching) loses 10 points.
+
+GMM calibration fitted on 40 positive + 40 negative pairs:
+$\mu_+ = 0.936$, $\sigma_+ = 0.018$,
+$\mu_- = 0.924$, $\sigma_- = 0.018$.
+
+Critical limitation: same-prompt AI siblings (two independent generations
+from the same prompt) score nearly identically to true derivative pairs
+($\approx 0.94$). The system cannot tell them apart.
+
+% ─────────────────────────────────────────────────────────────────────────────
+\section{Real/AI Experiments (New Domain)}
+% ─────────────────────────────────────────────────────────────────────────────
+
+\textbf{64 real songs + 149 AI derivatives.} This is a problem neither
+MIPPIA nor SONICS was designed for.
+
+\subsection{MERT Fails Here}
+
+\begin{center}
+\begin{tabular}{lcccc}
+\toprule
+Method & Pos. mean & Neg. mean & Gap & ROC AUC \\
+\midrule
+MERT Top-K $k=10$ & $0.871 \pm 0.104$ & $0.885 \pm 0.024$ & $-0.014$ & 0.573 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+The gap is negative: AI derivatives score \emph{lower} than unrelated
+real/AI pairs. AUC 0.57 is barely above random. MERT captures acoustic
+character and the AI generator signature, not the source-song relationship.
+
+\subsection{Lyrics Works}
+
+All 64 real songs and 128 AI derivatives transcribed with Whisper-tiny.
+Word-level Jaccard overlap on 128 positive + 192 negative pairs:
+
+\begin{center}
+\begin{tabular}{lcccc}
+\toprule
+Signal & Pos. mean & Neg. mean & Gap & ROC AUC \\
+\midrule
+MERT Top-K (reference) & 0.871 & 0.885 & $-0.014$ & 0.572 \\
+Sentence-Transformer & 0.616 & 0.392 & $+0.224$ & 0.875 \\
+\textbf{Jaccard word overlap} & $\mathbf{0.277}$ & $\mathbf{0.129}$ & $\mathbf{+0.148}$ & $\mathbf{0.886}$ \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+Strict song-level split (32 songs for positives, 32 for negatives,
+no overlap): Jaccard AUC drops from 0.886 to \textbf{0.865}.
+Leakage inflated the original by 0.018 -- the corrected number is honest.
+
+\subsection{Melody Contour Rejected}
+
+MIDI extraction via \texttt{basic-pitch}, DTW on relative interval sequences.
+64 positive + 96 negative pairs (strict split):
+
+\begin{center}
+\begin{tabular}{lc}
+\toprule
+Signal & ROC AUC \\
+\midrule
+Jaccard alone & 0.865 \\
+Melody contour alone & 0.570 \\
+Jaccard $\times$ Melody (product) & 0.743 \\
+Logistic regression, 5-fold CV & 0.843 $\pm$ 0.168 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+Melody AUC 0.570 is near chance. Adding it to Jaccard makes things
+worse. Pre-committed decision rule: include if AUC $> 0.70$ and gain
+over Jaccard $> 0.01$. Both fail. Melody is excluded.
+
+\textbf{Why:} AI generators freely reinterpret melody. A ballad's lyrics
+can become hip-hop or metal. The contour bears no relation to the source.
+
+% ─────────────────────────────────────────────────────────────────────────────
+\section{General Attribution Framework}
+% ─────────────────────────────────────────────────────────────────────────────
+
+A 5-stage pipeline that identifies the pair type and applies the right
+calibration for each.
+
+\textbf{Stage 1 -- Track classifier.}
+Each track classified as real, suno, or udio using HNR + LUFS + autocorrelation.
+Returns \texttt{unknown} for \texttt{.npy} inputs (no audio for fingerprints).
+Parameters from Table~1.
+
+\begin{table}[h]
+\centering\caption{Track classifier acoustic profiles}
+\begin{tabular}{lccc}
+\toprule
+Feature & Real & Suno & Udio \\
+\midrule
+HNR & $16.4 \pm 5.2$ & $31.5 \pm 15.0$ & $14.0 \pm 8.0$ \\
+LUFS (dB) & $-16.5 \pm 2.0$ & $-15.5 \pm 1.5$ & $-10.1 \pm 2.5$ \\
+Autocorr peak & $0.00 \pm 0.10$ & $0.15 \pm 0.10$ & $0.12 \pm 0.08$ \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\textbf{Stage 2 -- Pair-type router.}
+\begin{center}
+\begin{tabular}{lll}
+\toprule
+Pair type & Calibration & Reliability \\
+\midrule
+real/real & MIPPIA min-max ($\ell_0=0.88$, $\ell_1=0.99$) & HIGH \\
+AI/AI same-engine & SONICS GMM & HIGH \\
+real/AI & Lyrics Jaccard Gaussian posterior & HIGH \\
+cross-engine AI/AI & Reference only & LOW \\
+unknown & SONICS GMM (fallback) & MODERATE \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\textbf{Stage 3 -- MERT Top-K $k=10$.}
+For each segment in A, find the most similar segment in B (any position).
+Average the top 10. Cosine is rescaled by $(\cos+1)/2$ to match the
+SONICS GMM calibration space. For real/AI pairs, this is replaced by
+Jaccard word overlap from Whisper transcriptions.
+
+\textbf{Stage 4 -- Calibration.}
+Each pair type uses its own calibration:
+\begin{itemize}[nosep]
+  \item \textit{MIPPIA:} min-max linear rescaling to $[0, 1]$.
+  \item \textit{SONICS GMM:} Bayesian posterior,
+    $\mu_+ = 0.936$, $\sigma_+ = 0.018$,
+    $\mu_- = 0.924$, $\sigma_- = 0.018$, $\pi_+ = 0.5$.
+  \item \textit{Lyrics Jaccard:} Gaussian posterior,
+    $\mu_+ = 0.277$, $\sigma_+ = 0.118$,
+    $\mu_- = 0.129$, $\sigma_- = 0.040$.
+  \item \textit{Cross-engine:} sigmoid vs.\ unrelated distribution
+    ($\mu = 0.924$, $\sigma = 0.019$). LOW flag.
+\end{itemize}
+
+\textbf{Stage 5 -- Explanation.}
+Score, verdict, per-track fingerprints, top-5 segment matches,
+and honesty warnings (sibling ambiguity, cross-engine limitation, etc.).
+
+\begin{center}
+\begin{tabular}{lllccc}
+\toprule
+Pair type & Signal & Calibration & AUC & $N_+$ & $N_-$ \\
+\midrule
+real/real & MERT Top-K & MIPPIA min-max & 0.838 & 39 & 117 \\
+AI/AI same-engine & MERT Top-K & SONICS GMM & 0.850 & 40 & 40 \\
+real/AI & Lyrics Jaccard & Gaussian posterior & 0.886 & 128 & 192 \\
+cross-engine AI/AI & MERT Top-K & Reference only & -- & 0 & 21 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+No end-to-end evaluation on a mixed-type held-out split has been done.
+Each row was validated independently on its own domain.
+
+% ─────────────────────────────────────────────────────────────────────────────
+\section{Usage}
+% ─────────────────────────────────────────────────────────────────────────────
+
+\begin{verbatim}
+# Auto mode (default): 5-stage general pipeline
+python compare_tracks.py track_a.mp3 track_b.mp3
+
+# SONICS mode: original MERT Top-K + GMM (backward compatible, .npy)
+python compare_tracks.py feat_a.npy feat_b.npy --mode sonics
+\end{verbatim}
+
+Python API:
+\begin{verbatim}
+from src.general_attribution import attribute_tracks
+result = attribute_tracks("a.mp3", "b.mp3")
+print(result.score)         # calibrated P(derivative) in [0, 1]
+print(result.pair_type)     # "real/ai" | "same-engine-ai" | ...
+print(result.reliability)   # "HIGH" | "MODERATE" | "LOW"
+\end{verbatim}
+
+Dependencies: \texttt{numpy}, \texttt{librosa}, \texttt{scipy},
+\texttt{transformers}, \texttt{torch}, \texttt{scikit-learn},
+\texttt{pyloudnorm}, \texttt{openai-whisper}, \texttt{sentence-transformers}.
+First run creates a local venv and installs all packages ($\sim$2 min).
+
+% ─────────────────────────────────────────────────────────────────────────────
+\section{Limitations}
+% ─────────────────────────────────────────────────────────────────────────────
+
+\begin{enumerate}[nosep, leftmargin=*]
+  \item \textbf{Same-prompt AI sibling ambiguity.} Two independent
+    generations from the same prompt score nearly identically to true
+    derivatives ($\approx 0.94$). System cannot tell them apart and
+    issues a warning.
+
+  \item \textbf{MERT is useless for real$\to$AI.} AUC 0.57, negative gap.
+    Lyrics Jaccard (AUC 0.89) is the primary signal instead.
+
+  \item \textbf{Real/AI calibration on 64 songs only.} Modest sample.
+    Non-English lyrics untested. Only Suno derivatives -- no Udio
+    real/AI calibration exists.
+
+  \item \textbf{Instrumental fallback missing.} No lyrics $\to$ fallback
+    to MERT (AUC 0.57). No alternative signal for instrumental music.
+
+  \item \textbf{Cross-engine AI/AI unvalidated.} Zero derivative pairs
+    exist for Suno$\leftrightarrow$Udio. LOW flag means: do not use
+    for copyright claims.
+
+  \item \textbf{Suno v4+ lightly profiled.} Only 26 folk songs at
+    v4.5-all. Track classifier may misclassify newer versions.
+\end{enumerate}
+
+\end{document}

@@ -1,0 +1,21 @@
+{
+  "method": "MULTISCALE_TOP_K_MERT",
+  "scales_sec": [5, 10, 30],
+  "weights": "equal (1/3 each)",
+  "k": 10,
+  "demo_derivative_pair": {
+    "raw_score_combined": 0.9644,
+    "gmm_score": 0.7843,
+    "verdict": "LIKELY DERIVATIVE",
+    "per_scale_note": "All three scales identical (0.9644) — demo inputs are pre-extracted 10s .npy files; re-segmentation is not possible from cached embeddings."
+  },
+  "sonics_auc_evaluation": {
+    "status": "NOT_COMPUTED",
+    "reason": "SONICS feature files were extracted at 10s on Colab (/content/sonics_features/*.npy) and are not locally available for re-extraction at 5s and 30s. Re-evaluation requires original audio files.",
+    "single_scale_10s_auc": 0.850,
+    "expected_combined_auc_lower_bound": 0.850,
+    "expected_combined_auc_note": "A weighted combination of three monotonic transforms of the same MERT similarity has identical ROC AUC to the best single-scale score when the scales use the same underlying .npy cache. AUC gain is only achievable if the 5s and 30s scales capture partially independent structural variance, which requires re-extraction from raw audio."
+  },
+  "implementation": "src/sonics_similarity.compare_tracks_sonics_multiscale()",
+  "usage": "compare_tracks_sonics_multiscale(track_a, track_b, scales_sec=[5,10,30], weights=[1,1,1], k=10)"
+}

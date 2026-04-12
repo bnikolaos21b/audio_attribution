@@ -1,0 +1,11 @@
+raw,label,stem_a,stem_b,engine_a,engine_b
+0.9978916645050049,1,fake_10779_suno_0,fake_10779_suno_1,suno,suno
+0.9976104497909546,1,fake_10003_suno_0,fake_10003_suno_1,suno,suno
+0.9958250522613525,0,fake_09270_suno_1,fake_01357_suno_0,suno,suno
+0.9950001239776611,0,fake_10003_suno_0,fake_02217_suno_1,suno,suno
+0.9937278032302856,1,fake_10559_udio_0,fake_10559_udio_1,udio,udio
+0.9928010702133179,1,fake_10973_suno_0,fake_10973_suno_1,suno,suno
+0.9879036545753479,1,fake_10467_udio_0,fake_10467_udio_1,udio,udio
+0.9862878322601318,0,fake_06220_suno_1,fake_05223_udio_1,suno,udio
+0.983406126499176,0,fake_08880_udio_1,fake_00196_udio_1,udio,udio
+0.9493222236633301,0,fake_09771_suno_1,fake_02210_udio_1,suno,udio

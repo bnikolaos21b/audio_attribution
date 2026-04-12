@@ -1,0 +1,23 @@
+{
+  "best_variant": {
+    "variant": "minmax",
+    "roc_auc_mean": 0.7076388888888888,
+    "roc_auc_std": 0.10579742027007305,
+    "pr_auc_mean": 0.7612199170592797,
+    "pr_auc_std": 0.09947032468325087,
+    "accuracy_default_mean": 0.5625,
+    "precision_default_mean": 0.5444973483464532,
+    "recall_default_mean": 0.9333333333333332,
+    "f1_default_mean": 0.6840601257918703,
+    "best_threshold_mean": 0.6526701582993805,
+    "accuracy_calibrated_mean": 0.6916666666666667,
+    "precision_calibrated_mean": 0.689973335842901,
+    "recall_calibrated_mean": 0.85,
+    "f1_calibrated_mean": 0.7396803438107786,
+    "score_mean_mean": 0.7385775153072155,
+    "score_std_mean": 0.1874781724419279
+  },
+  "results_csv": "results/temporal_score_calibration_study_raw.csv",
+  "summary_csv": "results/temporal_score_calibration_study_summary.csv",
+  "note": "Calibration study for banded_diagonal_mean full-track attribution score"
+}

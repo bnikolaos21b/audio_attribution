@@ -1,0 +1,28 @@
+{
+  "train_rows": 135,
+  "train_pair_kind_counts": {
+    "mippia_hard_negative": 78,
+    "mippia_positive": 39,
+    "mippia_plag_doubt_negative": 18
+  },
+  "train_label_counts": {
+    "0.0": 96,
+    "1.0": 39
+  },
+  "hard_negatives_mined": 78,
+  "hard_negative_similarity_stats": {
+    "count": 78.0,
+    "mean": 0.991525,
+    "std": 0.007478,
+    "min": 0.95085,
+    "25%": 0.989942,
+    "50%": 0.992916,
+    "75%": 0.996086,
+    "max": 0.997663
+  },
+  "best_val_loss": 0.9681118130683899,
+  "epochs_completed": 36,
+  "training_minutes": 1.2254,
+  "pos_weight": 2.4516129032258065,
+  "saved_model": "models/siamese_custom_1294_hardneg_best.pt"
+}

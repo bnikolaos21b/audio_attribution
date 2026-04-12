@@ -1,0 +1,36 @@
+{
+  "model_path": "models/siamese_custom_1294_weighted_best.pt",
+  "mippia_feature_dir_1294": "features/",
+  "usable_mippia_pairs": 57,
+  "pair_distribution": {
+    "plag": 23,
+    "plag_doubt": 18,
+    "remake": 16
+  },
+  "top_k": 5,
+  "mean": {
+    "n_test_pairs": 18.0,
+    "n_eval_pos": 12.0,
+    "n_eval_neg": 12.0,
+    "roc_auc": 0.673611,
+    "pr_auc": 0.687041,
+    "accuracy": 0.529167,
+    "precision": 0.51582,
+    "recall": 0.975,
+    "f1": 0.674454
+  },
+  "std": {
+    "n_test_pairs": 0.0,
+    "n_eval_pos": 0.0,
+    "n_eval_neg": 0.0,
+    "roc_auc": 0.118486,
+    "pr_auc": 0.094304,
+    "accuracy": 0.039528,
+    "precision": 0.02131,
+    "recall": 0.040254,
+    "f1": 0.02448
+  },
+  "results_csv": "results/segment/segment_topk_1294_honest_eval_topk5_multi_seed.csv",
+  "scores_json": "not-available",
+  "note": "Segment-level scoring with top-k aggregation using the trained weighted 1294 Siamese model."
+}

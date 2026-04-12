@@ -1,0 +1,751 @@
+{
+  "20679": {
+    "real_title": "Protector",
+    "real_artist": "City Wolf",
+    "youtube_id": "JVla5FgJQso",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_20679_suno_1",
+      "fake_20679_suno_0"
+    ]
+  },
+  "33394": {
+    "real_title": "Teacher Teacher",
+    "real_artist": "JZAC",
+    "youtube_id": "b1CHOxNzCuM",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_33394_suno_1",
+      "fake_33394_suno_0"
+    ]
+  },
+  "16765": {
+    "real_title": "Ignorance",
+    "real_artist": "King Lil G",
+    "youtube_id": "2_rgnsFJ-uw",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_16765_suno_0",
+      "fake_16765_suno_1"
+    ]
+  },
+  "34833": {
+    "real_title": "The Bad Thing",
+    "real_artist": "Periphery",
+    "youtube_id": "VmiazFHzpP8",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_34833_suno_1",
+      "fake_34833_suno_0"
+    ]
+  },
+  "37813": {
+    "real_title": "Drop",
+    "real_artist": "Ying Yang Twins",
+    "youtube_id": "nDAEROFSk8g",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_37813_suno_1",
+      "fake_37813_suno_0"
+    ]
+  },
+  "49114": {
+    "real_title": "Bite Your Lip",
+    "real_artist": "Moody Good",
+    "youtube_id": "5h7Sbd1r-_s",
+    "algorithm": "chirp-v3",
+    "fake_files": [
+      "fake_49114_suno_1",
+      "fake_49114_suno_0"
+    ]
+  },
+  "39536": {
+    "real_title": "Credence",
+    "real_artist": "Chetta",
+    "youtube_id": "oGo331lY3vU",
+    "algorithm": "chirp-v3",
+    "fake_files": [
+      "fake_39536_suno_0",
+      "fake_39536_suno_1"
+    ]
+  },
+  "45641": {
+    "real_title": "Party in Me",
+    "real_artist": "Yung Bae",
+    "youtube_id": "ZNQ81R3mbM0",
+    "algorithm": "chirp-v3",
+    "fake_files": [
+      "fake_45641_suno_0",
+      "fake_45641_suno_1"
+    ]
+  },
+  "35931": {
+    "real_title": "The Cure",
+    "real_artist": "Nas",
+    "youtube_id": "LEhnW4HkhE4",
+    "algorithm": "chirp-v3",
+    "fake_files": [
+      "fake_35931_suno_0",
+      "fake_35931_suno_1"
+    ]
+  },
+  "22570": {
+    "real_title": "Solitaire",
+    "real_artist": "Chris Webby",
+    "youtube_id": "k9v_zbkOrTU",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_22570_suno_1",
+      "fake_22570_suno_0"
+    ]
+  },
+  "21005": {
+    "real_title": "Melon and the Coconut",
+    "real_artist": "Glass Animals",
+    "youtube_id": "kcOMEBKKouY",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_21005_suno_1",
+      "fake_21005_suno_0"
+    ]
+  },
+  "20798": {
+    "real_title": "Growing Up",
+    "real_artist": "Run River North",
+    "youtube_id": "xr9QYFOUe4Q",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_20798_suno_1",
+      "fake_20798_suno_0"
+    ]
+  },
+  "46643": {
+    "real_title": "Drunk In Love",
+    "real_artist": "Oceans Ate Alaska",
+    "youtube_id": "23ySdftuMog",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_46643_suno_1",
+      "fake_46643_suno_0"
+    ]
+  },
+  "32407": {
+    "real_title": "Yr Love",
+    "real_artist": "Roosevelt",
+    "youtube_id": "UKPWW7GeTK4",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_32407_suno_1",
+      "fake_32407_suno_0"
+    ]
+  },
+  "32368": {
+    "real_title": "Puppet",
+    "real_artist": "Night Lovell",
+    "youtube_id": "ECwUnzIbmeg",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_32368_suno_0",
+      "fake_32368_suno_1"
+    ]
+  },
+  "38280": {
+    "real_title": "Love Story",
+    "real_artist": "Mariah Carey",
+    "youtube_id": "Y1FlK51AX8g",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_38280_suno_0",
+      "fake_38280_suno_1"
+    ]
+  },
+  "30120": {
+    "real_title": "Replaced",
+    "real_artist": "Sik World",
+    "youtube_id": "It2Sz-PbSq4",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_30120_suno_1",
+      "fake_30120_suno_0"
+    ]
+  },
+  "19031": {
+    "real_title": "Sweet Honey",
+    "real_artist": "Slightly Stoopid",
+    "youtube_id": "tT_si2UrpBM",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_19031_suno_1",
+      "fake_19031_suno_0"
+    ]
+  },
+  "18950": {
+    "real_title": "No Face No Ca$e",
+    "real_artist": "King Lil G",
+    "youtube_id": "RoVLpeO0nPU",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_18950_suno_1",
+      "fake_18950_suno_0"
+    ]
+  },
+  "30485": {
+    "real_title": "3 Mill",
+    "real_artist": "Berner",
+    "youtube_id": "P0aVameJdAQ",
+    "algorithm": "chirp-v3",
+    "fake_files": [
+      "fake_30485_suno_0",
+      "fake_30485_suno_1"
+    ]
+  },
+  "31494": {
+    "real_title": "Fly Away",
+    "real_artist": "Flatbush Zombies",
+    "youtube_id": "SQoifID93-o",
+    "algorithm": "chirp-v3",
+    "fake_files": [
+      "fake_31494_suno_1",
+      "fake_31494_suno_0"
+    ]
+  },
+  "44203": {
+    "real_title": "Doing Just Fine",
+    "real_artist": "Z-Ro",
+    "youtube_id": "2xFr6VsQ_fA",
+    "algorithm": "chirp-v2-xxl-alpha",
+    "fake_files": [
+      "fake_44203_suno_1",
+      "fake_44203_suno_0"
+    ]
+  },
+  "22430": {
+    "real_title": "Congratulations",
+    "real_artist": "Drake",
+    "youtube_id": "JY0q8XFiuwE",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_22430_suno_1",
+      "fake_22430_suno_0"
+    ]
+  },
+  "52412": {
+    "real_title": "Ridin Round Town",
+    "real_artist": "Jack Harlow",
+    "youtube_id": "lIMy5IpuI5s",
+    "algorithm": "chirp-v3",
+    "fake_files": [
+      "fake_52412_suno_1",
+      "fake_52412_suno_0"
+    ]
+  },
+  "19920": {
+    "real_title": "STAINS",
+    "real_artist": "BROCKHAMPTON",
+    "youtube_id": "alZrkH0jnz4",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_19920_suno_1",
+      "fake_19920_suno_0"
+    ]
+  },
+  "34688": {
+    "real_title": "Ruby Red",
+    "real_artist": "Smino",
+    "youtube_id": "1q58AXbuwrA",
+    "algorithm": "chirp-v3",
+    "fake_files": [
+      "fake_34688_suno_0"
+    ]
+  },
+  "14365": {
+    "real_title": "A CHANGE OF WEATHER",
+    "real_artist": "TWENTYTHREE",
+    "youtube_id": "QHwwGCXjWY8",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_14365_suno_1",
+      "fake_14365_suno_0"
+    ]
+  },
+  "15620": {
+    "real_title": "I Call It Love",
+    "real_artist": "Lionel Richie",
+    "youtube_id": "409GTVahEWQ",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_15620_suno_1",
+      "fake_15620_suno_0"
+    ]
+  },
+  "27081": {
+    "real_title": "White Lightning",
+    "real_artist": "Upchurch",
+    "youtube_id": "OWZQRNPCivs",
+    "algorithm": "chirp-v2-xxl-alpha",
+    "fake_files": [
+      "fake_27081_suno_1",
+      "fake_27081_suno_0"
+    ]
+  },
+  "11532": {
+    "real_title": "Five More Nights",
+    "real_artist": "JT Music",
+    "youtube_id": "446U9P8BHMc",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_11532_suno_1",
+      "fake_11532_suno_0"
+    ]
+  },
+  "11220": {
+    "real_title": "In Love",
+    "real_artist": "Aaron May",
+    "youtube_id": "LReJSI5HyiA",
+    "algorithm": "chirp-v2-xxl-alpha",
+    "fake_files": [
+      "fake_11220_suno_1",
+      "fake_11220_suno_0"
+    ]
+  },
+  "42548": {
+    "real_title": "Everything",
+    "real_artist": "Murs",
+    "youtube_id": "SBBozpR7JHQ",
+    "algorithm": "chirp-v3",
+    "fake_files": [
+      "fake_42548_suno_1",
+      "fake_42548_suno_0"
+    ]
+  },
+  "10651": {
+    "real_title": "Dashboard",
+    "real_artist": "Modest Mouse",
+    "youtube_id": "penvn9VL32Y",
+    "algorithm": "chirp-v3",
+    "fake_files": [
+      "fake_10651_suno_1",
+      "fake_10651_suno_0"
+    ]
+  },
+  "6993": {
+    "real_title": "An Unhealthy Obsession",
+    "real_artist": "The Blake Robinson Synthetic Orchestra",
+    "youtube_id": "QO-WqjFtRE4",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_06993_suno_1",
+      "fake_06993_suno_0"
+    ]
+  },
+  "290": {
+    "real_title": "In the End",
+    "real_artist": "Linkin Park",
+    "youtube_id": "gB9P0kpc1O4",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_00290_suno_1",
+      "fake_00290_suno_0"
+    ]
+  },
+  "6009": {
+    "real_title": "Him Or Me",
+    "real_artist": "Chris Brown",
+    "youtube_id": "HQFhsTfXbFY",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_06009_suno_1",
+      "fake_06009_suno_0"
+    ]
+  },
+  "1513": {
+    "real_title": "Eraser",
+    "real_artist": "Ed Sheeran",
+    "youtube_id": "OjGrcJ4lZCc",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_01513_suno_1",
+      "fake_01513_suno_0"
+    ]
+  },
+  "1483": {
+    "real_title": "Skyline To",
+    "real_artist": "Frank Ocean",
+    "youtube_id": "CtkUJb22oSQ",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_01483_suno_1",
+      "fake_01483_suno_0"
+    ]
+  },
+  "1324": {
+    "real_title": "Purple Lamborghini",
+    "real_artist": "Skrillex & Rick Ross",
+    "youtube_id": "O4TM8bVXt9U",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_01324_suno_1",
+      "fake_01324_suno_0"
+    ]
+  },
+  "1931": {
+    "real_title": "Is There More",
+    "real_artist": "Drake",
+    "youtube_id": "EQhSeKbnkqI",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_01931_suno_1",
+      "fake_01931_suno_0"
+    ]
+  },
+  "1882": {
+    "real_title": "Loser",
+    "real_artist": "Beck",
+    "youtube_id": "YgSPaXgAdzE",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_01882_suno_1",
+      "fake_01882_suno_0"
+    ]
+  },
+  "539": {
+    "real_title": "The Search",
+    "real_artist": "NF",
+    "youtube_id": "zWFQOIDBKBs",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_00539_suno_1",
+      "fake_00539_suno_0"
+    ]
+  },
+  "371": {
+    "real_title": "Novacane",
+    "real_artist": "Frank Ocean",
+    "youtube_id": "hgOu8eRJZ3Q",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_00371_suno_1",
+      "fake_00371_suno_0"
+    ]
+  },
+  "519": {
+    "real_title": "Go Flex",
+    "real_artist": "Post Malone",
+    "youtube_id": "68WnHYxo9PA",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_00519_suno_1",
+      "fake_00519_suno_0"
+    ]
+  },
+  "975": {
+    "real_title": "M To The B Soph Aspin Send",
+    "real_artist": "Millie B",
+    "youtube_id": "FSjvlnneEto",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_00975_suno_1",
+      "fake_00975_suno_0"
+    ]
+  },
+  "895": {
+    "real_title": "Believe",
+    "real_artist": "Eminem",
+    "youtube_id": "JrIoKNaM-8w",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_00895_suno_1",
+      "fake_00895_suno_0"
+    ]
+  },
+  "8247": {
+    "real_title": "Jump.i",
+    "real_artist": "Kweku Collins",
+    "youtube_id": "zTz6aSUb2qQ",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_08247_suno_0",
+      "fake_08247_suno_1"
+    ]
+  },
+  "8318": {
+    "real_title": "Put A Praise On It Live",
+    "real_artist": "Tasha Cobbs Leonard",
+    "youtube_id": "pDsbHo3Vy08",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_08318_suno_1",
+      "fake_08318_suno_0"
+    ]
+  },
+  "8306": {
+    "real_title": "Sports Rap-Up 2013",
+    "real_artist": "Skillz",
+    "youtube_id": "MiluUdQ_Fng",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_08306_suno_1",
+      "fake_08306_suno_0"
+    ]
+  },
+  "8374": {
+    "real_title": "\u200bcharcoal. // X I X X",
+    "real_artist": "Samsa",
+    "youtube_id": "teEIBPyyCNQ",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_08374_suno_0",
+      "fake_08374_suno_1"
+    ]
+  },
+  "8057": {
+    "real_title": "ALASKA",
+    "real_artist": "UNAVERAGE GANG",
+    "youtube_id": "VQ8qx7VrtvQ",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_08057_suno_1",
+      "fake_08057_suno_0"
+    ]
+  },
+  "8038": {
+    "real_title": "Tough Decisions A Whale is Gonna Die",
+    "real_artist": "Rhett and Link",
+    "youtube_id": "mETIvYYA4JE",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_08038_suno_1",
+      "fake_08038_suno_0"
+    ]
+  },
+  "8701": {
+    "real_title": "Monsters Under My Bed",
+    "real_artist": "Mars Argo",
+    "youtube_id": "Y9QmpuRe_QE",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_08701_suno_1",
+      "fake_08701_suno_0"
+    ]
+  },
+  "8677": {
+    "real_title": "17-35",
+    "real_artist": "Stoop Kids",
+    "youtube_id": "1spzMNMe0Rg",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_08677_suno_1",
+      "fake_08677_suno_0"
+    ]
+  },
+  "8712": {
+    "real_title": "Foxhole",
+    "real_artist": "RIZ LA VIE",
+    "youtube_id": "GelXB_qG0JU",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_08712_suno_0",
+      "fake_08712_suno_1"
+    ]
+  },
+  "8649": {
+    "real_title": "Machine Bitez 5",
+    "real_artist": "Gorillaz",
+    "youtube_id": "wExXMBVGq0U",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_08649_suno_1",
+      "fake_08649_suno_0"
+    ]
+  },
+  "8503": {
+    "real_title": "111",
+    "real_artist": "Subculture Sage",
+    "youtube_id": "bwICLFdauAQ",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_08503_suno_1",
+      "fake_08503_suno_0"
+    ]
+  },
+  "7394": {
+    "real_title": "25 Minutes to Go",
+    "real_artist": "Johnny Cash",
+    "youtube_id": "iTez5GEx5-M",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_07394_suno_1",
+      "fake_07394_suno_0"
+    ]
+  },
+  "7463": {
+    "real_title": "The Warrior Song",
+    "real_artist": "Sean Householder",
+    "youtube_id": "kxtamiA8vuI",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_07463_suno_1",
+      "fake_07463_suno_0"
+    ]
+  },
+  "5482": {
+    "real_title": "Introduction / The Revolution Will Not Be Televised Small Talk at 125th and Lenox Version",
+    "real_artist": "Gil Scott-Heron",
+    "youtube_id": "j9_FDTcchgc",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_05482_suno_1",
+      "fake_05482_suno_0"
+    ]
+  },
+  "4025": {
+    "real_title": "Vulnerable",
+    "real_artist": "Selena Gomez",
+    "youtube_id": "o2XUvtimg5g",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_04025_suno_1",
+      "fake_04025_suno_0"
+    ]
+  },
+  "4161": {
+    "real_title": "It\u2019s Goin Down",
+    "real_artist": "Descendants 2 Cast",
+    "youtube_id": "4Vv-zcAoer8",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_04161_suno_1",
+      "fake_04161_suno_0"
+    ]
+  },
+  "39574": {
+    "real_title": "2020",
+    "real_artist": "Sol",
+    "youtube_id": "DWyhOAr9_B8",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_39574_suno_1",
+      "fake_39574_suno_0"
+    ]
+  },
+  "29975": {
+    "real_title": "Gimmie Dat",
+    "real_artist": "Ciara",
+    "youtube_id": "MakgTQ_Ubzs",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_29975_suno_1",
+      "fake_29975_suno_0"
+    ]
+  },
+  "11150": {
+    "real_title": "We Ball",
+    "real_artist": "Ace Hood",
+    "youtube_id": "f_Wwh_JY2h0",
+    "algorithm": "chirp-v3",
+    "fake_files": [
+      "fake_11150_suno_1",
+      "fake_11150_suno_0"
+    ]
+  },
+  "36217": {
+    "real_title": "Just As I Am",
+    "real_artist": "Alan Jackson",
+    "youtube_id": "yFB-mxSt9Cc",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_36217_suno_1",
+      "fake_36217_suno_0"
+    ]
+  },
+  "51848": {
+    "real_title": "Another Relationship",
+    "real_artist": "Syleena Johnson",
+    "youtube_id": "6iHXzt1TihU",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_51848_suno_1",
+      "fake_51848_suno_0"
+    ]
+  },
+  "39031": {
+    "real_title": "Galil",
+    "real_artist": "Wrekonize",
+    "youtube_id": "j6JRwIZgC7c",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_39031_suno_1",
+      "fake_39031_suno_0"
+    ]
+  },
+  "2622": {
+    "real_title": "Therapy Session",
+    "real_artist": "NF",
+    "youtube_id": "KgMzxQW2raE",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_02622_suno_0",
+      "fake_02622_suno_1"
+    ]
+  },
+  "2881": {
+    "real_title": "Say Whats Real",
+    "real_artist": "Drake",
+    "youtube_id": "fuwNaY3gItU",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_02881_suno_0",
+      "fake_02881_suno_1"
+    ]
+  },
+  "2726": {
+    "real_title": "Gasoline",
+    "real_artist": "The Weeknd",
+    "youtube_id": "0T4UykXuJnI",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_02726_suno_0",
+      "fake_02726_suno_1"
+    ]
+  },
+  "3039": {
+    "real_title": "Thats My Best Friend",
+    "real_artist": "Tokyo Vanity",
+    "youtube_id": "0XfHbil1nFw",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_03039_suno_0",
+      "fake_03039_suno_1"
+    ]
+  },
+  "3099": {
+    "real_title": "RUN",
+    "real_artist": "Juice WRLD",
+    "youtube_id": "Aa9WSJiqYkM",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_03099_suno_1",
+      "fake_03099_suno_0"
+    ]
+  },
+  "3338": {
+    "real_title": "Down",
+    "real_artist": "Marian Hill",
+    "youtube_id": "O51svgEzRCA",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_03338_suno_1",
+      "fake_03338_suno_0"
+    ]
+  },
+  "3309": {
+    "real_title": "Been On",
+    "real_artist": "G-Eazy",
+    "youtube_id": "8RZTd1a2UOw",
+    "algorithm": "chirp-v3.5",
+    "fake_files": [
+      "fake_03309_suno_1",
+      "fake_03309_suno_0"
+    ]
+  }
+}

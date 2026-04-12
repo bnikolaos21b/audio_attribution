@@ -1,0 +1,439 @@
+{
+  "categories_computable": [
+    {
+      "category": "Real vs Real, same genre (folk), unrelated",
+      "n": 10,
+      "mean": 0.90915,
+      "std": 0.02288,
+      "min": 0.86519,
+      "max": 0.93773,
+      "median": 0.9094,
+      "pairs_sample": [
+        {
+          "a": "real_Bob_Dylan_-_Blowin_in_the_Wind_Official_Audio.mp3",
+          "b": "real_Diamonds_And_Rust.mp3",
+          "similarity": 0.91593
+        },
+        {
+          "a": "real_Bob_Dylan_-_Blowin_in_the_Wind_Official_Audio.mp3",
+          "b": "real_Puff_the_Magic_Dragon.mp3",
+          "similarity": 0.86519
+        },
+        {
+          "a": "real_Bob_Dylan_-_Blowin_in_the_Wind_Official_Audio.mp3",
+          "b": "real_Simon_Garfunkel_-_The_Sounds_of_Silence_Audio.mp3",
+          "similarity": 0.93109
+        },
+        {
+          "a": "real_Bob_Dylan_-_Blowin_in_the_Wind_Official_Audio.mp3",
+          "b": "real_Wild_World.mp3",
+          "similarity": 0.90287
+        },
+        {
+          "a": "real_Diamonds_And_Rust.mp3",
+          "b": "real_Puff_the_Magic_Dragon.mp3",
+          "similarity": 0.89051
+        },
+        {
+          "a": "real_Diamonds_And_Rust.mp3",
+          "b": "real_Simon_Garfunkel_-_The_Sounds_of_Silence_Audio.mp3",
+          "similarity": 0.93773
+        },
+        {
+          "a": "real_Diamonds_And_Rust.mp3",
+          "b": "real_Wild_World.mp3",
+          "similarity": 0.9355
+        },
+        {
+          "a": "real_Puff_the_Magic_Dragon.mp3",
+          "b": "real_Simon_Garfunkel_-_The_Sounds_of_Silence_Audio.mp3",
+          "similarity": 0.88517
+        },
+        {
+          "a": "real_Puff_the_Magic_Dragon.mp3",
+          "b": "real_Wild_World.mp3",
+          "similarity": 0.90229
+        },
+        {
+          "a": "real_Simon_Garfunkel_-_The_Sounds_of_Silence_Audio.mp3",
+          "b": "real_Wild_World.mp3",
+          "similarity": 0.9252
+        }
+      ]
+    },
+    {
+      "category": "Real vs AI (Suno), same genre (folk), unrelated",
+      "n": 130,
+      "mean": 0.91184,
+      "std": 0.02379,
+      "min": 0.8359,
+      "max": 0.9595,
+      "median": 0.91536,
+      "pairs_sample": [
+        {
+          "a": "real_Bob_Dylan_-_Blowin_in_the_Wind_Official_Audio.mp3",
+          "b": "Candle Wax Strings (1).mp3",
+          "similarity": 0.8885
+        },
+        {
+          "a": "real_Bob_Dylan_-_Blowin_in_the_Wind_Official_Audio.mp3",
+          "b": "Candle Wax Strings.mp3",
+          "similarity": 0.92139
+        },
+        {
+          "a": "real_Bob_Dylan_-_Blowin_in_the_Wind_Official_Audio.mp3",
+          "b": "Cobweb Rosin Bowl (1).mp3",
+          "similarity": 0.91827
+        },
+        {
+          "a": "real_Bob_Dylan_-_Blowin_in_the_Wind_Official_Audio.mp3",
+          "b": "Cobweb Rosin Bowl.mp3",
+          "similarity": 0.86885
+        },
+        {
+          "a": "real_Bob_Dylan_-_Blowin_in_the_Wind_Official_Audio.mp3",
+          "b": "Giselle (1).mp3",
+          "similarity": 0.90047
+        },
+        {
+          "a": "real_Bob_Dylan_-_Blowin_in_the_Wind_Official_Audio.mp3",
+          "b": "Giselle.mp3",
+          "similarity": 0.89457
+        },
+        {
+          "a": "real_Bob_Dylan_-_Blowin_in_the_Wind_Official_Audio.mp3",
+          "b": "Guttered Lute Strings (1).mp3",
+          "similarity": 0.87124
+        },
+        {
+          "a": "real_Bob_Dylan_-_Blowin_in_the_Wind_Official_Audio.mp3",
+          "b": "Guttered Lute Strings.mp3",
+          "similarity": 0.90932
+        },
+        {
+          "a": "real_Bob_Dylan_-_Blowin_in_the_Wind_Official_Audio.mp3",
+          "b": "I Once Loved a Lad (1).mp3",
+          "similarity": 0.88363
+        },
+        {
+          "a": "real_Bob_Dylan_-_Blowin_in_the_Wind_Official_Audio.mp3",
+          "b": "I Once Loved a Lad.mp3",
+          "similarity": 0.92411
+        }
+      ]
+    },
+    {
+      "category": "Real vs AI (Suno), same genre (folk), derivative (same-prompt)",
+      "n": 0,
+      "mean": null,
+      "std": null,
+      "min": null,
+      "max": null,
+      "median": null,
+      "pairs_sample": [],
+      "note": "EMPTY \u2014 Suno songs were generated from text prompts, not derived from our real folk songs"
+    },
+    {
+      "category": "AI (Suno) vs AI (Suno), same genre (folk), unrelated",
+      "n": 312,
+      "mean": 0.93871,
+      "std": 0.02259,
+      "min": 0.85206,
+      "max": 0.98378,
+      "median": 0.94143,
+      "pairs_sample": [
+        {
+          "a": "Candle Wax Strings (1).mp3",
+          "b": "Cobweb Rosin Bowl (1).mp3",
+          "similarity": 0.95937
+        },
+        {
+          "a": "Candle Wax Strings (1).mp3",
+          "b": "Cobweb Rosin Bowl.mp3",
+          "similarity": 0.91391
+        },
+        {
+          "a": "Candle Wax Strings (1).mp3",
+          "b": "Giselle (1).mp3",
+          "similarity": 0.95296
+        },
+        {
+          "a": "Candle Wax Strings (1).mp3",
+          "b": "Giselle.mp3",
+          "similarity": 0.93262
+        },
+        {
+          "a": "Candle Wax Strings (1).mp3",
+          "b": "Guttered Lute Strings (1).mp3",
+          "similarity": 0.92918
+        },
+        {
+          "a": "Candle Wax Strings (1).mp3",
+          "b": "Guttered Lute Strings.mp3",
+          "similarity": 0.95739
+        },
+        {
+          "a": "Candle Wax Strings (1).mp3",
+          "b": "I Once Loved a Lad (1).mp3",
+          "similarity": 0.89473
+        },
+        {
+          "a": "Candle Wax Strings (1).mp3",
+          "b": "I Once Loved a Lad.mp3",
+          "similarity": 0.90583
+        },
+        {
+          "a": "Candle Wax Strings (1).mp3",
+          "b": "Lantern-Under-Table (1).mp3",
+          "similarity": 0.93785
+        },
+        {
+          "a": "Candle Wax Strings (1).mp3",
+          "b": "Lantern-Under-Table.mp3",
+          "similarity": 0.95779
+        }
+      ]
+    },
+    {
+      "category": "AI (Suno) vs AI (Suno), same genre (folk), derivative (same-prompt)",
+      "n": 13,
+      "mean": 0.94096,
+      "std": 0.02667,
+      "min": 0.87453,
+      "max": 0.97891,
+      "median": 0.94553,
+      "pairs_sample": [
+        {
+          "a": "Candle Wax Strings (1).mp3",
+          "b": "Candle Wax Strings.mp3",
+          "similarity": 0.94858
+        },
+        {
+          "a": "Cobweb Rosin Bowl (1).mp3",
+          "b": "Cobweb Rosin Bowl.mp3",
+          "similarity": 0.9281
+        },
+        {
+          "a": "Giselle (1).mp3",
+          "b": "Giselle.mp3",
+          "similarity": 0.95592
+        },
+        {
+          "a": "Guttered Lute Strings (1).mp3",
+          "b": "Guttered Lute Strings.mp3",
+          "similarity": 0.92425
+        },
+        {
+          "a": "I Once Loved a Lad (1).mp3",
+          "b": "I Once Loved a Lad.mp3",
+          "similarity": 0.92688
+        },
+        {
+          "a": "Lantern-Under-Table (1).mp3",
+          "b": "Lantern-Under-Table.mp3",
+          "similarity": 0.95682
+        },
+        {
+          "a": "Medieval Thumbpick (1).mp3",
+          "b": "Medieval Thumbpick.mp3",
+          "similarity": 0.94553
+        },
+        {
+          "a": "Minstrel Thimble (1).mp3",
+          "b": "Minstrel Thimble.mp3",
+          "similarity": 0.87453
+        },
+        {
+          "a": "Moonlit Lute String (1).mp3",
+          "b": "Moonlit Lute String.mp3",
+          "similarity": 0.96923
+        },
+        {
+          "a": "The Death of Queen Jane (1).mp3",
+          "b": "The Death of Queen Jane.mp3",
+          "similarity": 0.91473
+        }
+      ]
+    },
+    {
+      "category": "Real vs Real, different genre, unrelated",
+      "reason": "All our real songs are folk music. No genre diversity in the 5 available real tracks.",
+      "data_needed": "MIPPIA real tracks with genre labels \u2014 audio files are on Colab, not accessible locally.",
+      "n": 0,
+      "mean": null,
+      "std": null,
+      "min": null,
+      "max": null,
+      "median": null,
+      "pairs_sample": [],
+      "CANNOT_COMPUTE": true
+    },
+    {
+      "category": "Real vs Real, same genre, with plagiarism/copying",
+      "reason": "MIPPIA has 39 positive (plagiarism/remake) pairs but the 1294-dim features are only on Colab. No MERT-only cache for MIPPIA tracks locally.",
+      "data_needed": "MIPPIA audio files or MERT embeddings for the 60 ori + 60 comp tracks.",
+      "n": 0,
+      "mean": null,
+      "std": null,
+      "min": null,
+      "max": null,
+      "median": null,
+      "pairs_sample": [],
+      "CANNOT_COMPUTE": true
+    },
+    {
+      "category": "Real vs Real, different genre, with plagiarism/copying",
+      "reason": "Same as above \u2014 MIPPIA data not accessible locally.",
+      "data_needed": "MIPPIA audio with genre labels.",
+      "n": 0,
+      "mean": null,
+      "std": null,
+      "min": null,
+      "max": null,
+      "median": null,
+      "pairs_sample": [],
+      "CANNOT_COMPUTE": true
+    },
+    {
+      "category": "Real vs AI, different genre, unrelated",
+      "reason": "All our data (both real and AI) is folk music. No cross-genre pairs available.",
+      "data_needed": "Real songs + AI songs in different genres.",
+      "n": 0,
+      "mean": null,
+      "std": null,
+      "min": null,
+      "max": null,
+      "median": null,
+      "pairs_sample": [],
+      "CANNOT_COMPUTE": true
+    },
+    {
+      "category": "Real vs AI, same genre, derivative",
+      "reason": "Our Suno folk songs were generated from text prompts, not from our real folk songs. There is no derivation relationship between them.",
+      "data_needed": "AI songs that were actually generated from specific real source songs.",
+      "n": 0,
+      "mean": null,
+      "std": null,
+      "min": null,
+      "max": null,
+      "median": null,
+      "pairs_sample": [],
+      "CANNOT_COMPUTE": true
+    },
+    {
+      "category": "Real vs AI, different genre, derivative",
+      "reason": "Same as above \u2014 no derivation relationship exists in our data.",
+      "data_needed": "Cross-genre derivation pairs.",
+      "n": 0,
+      "mean": null,
+      "std": null,
+      "min": null,
+      "max": null,
+      "median": null,
+      "pairs_sample": [],
+      "CANNOT_COMPUTE": true
+    },
+    {
+      "category": "AI vs AI, different genre, unrelated",
+      "reason": "All our AI songs are folk. SONICS has genre-diverse AI songs but individual embeddings are not accessible locally (only pair-level scores exist).",
+      "data_needed": "Individual SONICS AI embeddings across genres.",
+      "n": 0,
+      "mean": null,
+      "std": null,
+      "min": null,
+      "max": null,
+      "median": null,
+      "pairs_sample": [],
+      "CANNOT_COMPUTE": true
+    },
+    {
+      "category": "AI vs AI, different genre, derivative (same source)",
+      "reason": "All our AI songs are folk. SONICS has same-source pairs but we only have aggregate scores, not individual embeddings.",
+      "data_needed": "Individual SONICS embeddings to compute cross-genre same-source similarity.",
+      "n": 0,
+      "mean": null,
+      "std": null,
+      "min": null,
+      "max": null,
+      "median": null,
+      "pairs_sample": [],
+      "CANNOT_COMPUTE": true
+    }
+  ],
+  "sonics_aggregate_scores": [
+    {
+      "category": "AI vs AI, SONICS suno-suno, same source (derivative)",
+      "n": 21,
+      "mean": 0.92944,
+      "std": 0.01994,
+      "min": 0.88895,
+      "max": 0.97133,
+      "median": 0.92763,
+      "note": "All SONICS positives are single-generator, same base_id pairs"
+    },
+    {
+      "category": "AI vs AI, SONICS udio-udio, same source (derivative)",
+      "n": 19,
+      "mean": 0.94276,
+      "std": 0.01431,
+      "min": 0.90387,
+      "max": 0.95998,
+      "median": 0.94418,
+      "note": "All SONICS positives are single-generator, same base_id pairs"
+    },
+    {
+      "category": "AI vs AI/Real, SONICS suno\u2192suno, unrelated (negative)",
+      "n": 12,
+      "mean": 0.91867,
+      "std": 0.01329,
+      "min": 0.89461,
+      "max": 0.93748,
+      "median": 0.92052,
+      "note": "SONICS negative pairs: suno vs suno"
+    },
+    {
+      "category": "AI vs AI/Real, SONICS suno\u2192udio, unrelated (negative)",
+      "n": 12,
+      "mean": 0.92386,
+      "std": 0.021,
+      "min": 0.87913,
+      "max": 0.94537,
+      "median": 0.92839,
+      "note": "SONICS negative pairs: suno vs udio"
+    },
+    {
+      "category": "AI vs AI/Real, SONICS udio\u2192suno, unrelated (negative)",
+      "n": 9,
+      "mean": 0.92411,
+      "std": 0.01881,
+      "min": 0.89956,
+      "max": 0.9506,
+      "median": 0.92029,
+      "note": "SONICS negative pairs: udio vs suno"
+    },
+    {
+      "category": "AI vs AI/Real, SONICS udio\u2192udio, unrelated (negative)",
+      "n": 7,
+      "mean": 0.93506,
+      "std": 0.01738,
+      "min": 0.90583,
+      "max": 0.95229,
+      "median": 0.93716,
+      "note": "SONICS negative pairs: udio vs udio"
+    }
+  ],
+  "data_available": {
+    "real_folk_with_mert": 5,
+    "suno_folk_with_mert": 26,
+    "sonics_pair_scores": 80,
+    "mippia_features": "ON COLAB ONLY (1294-dim, 127 tracks)",
+    "genre_metadata": "NONE \u2014 does not exist in any data file"
+  },
+  "limitations": [
+    "All available data is single-genre (folk)",
+    "No genre metadata in MIPPIA or SONICS files",
+    "MIPPIA audio/embeddings only on Colab",
+    "SONICS individual embeddings not accessible locally",
+    "No derivation relationship between our real and AI songs"
+  ]
+}

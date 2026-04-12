@@ -1,0 +1,7 @@
+{
+  "n_high_jaccard": 0,
+  "high_jaccard_pairs": [],
+  "mert_scores": {},
+  "mert_mean": null,
+  "all_negatives_jaccard_gt_0.2": 1
+}

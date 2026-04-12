@@ -1,0 +1,7 @@
+{
+  "method": "top_k_combined_mert_sf_hp_k5",
+  "roc_auc": 0.7244,
+  "pos_mean": 0.9963,
+  "neg_mean": 0.9928,
+  "separation": 0.0035
+}

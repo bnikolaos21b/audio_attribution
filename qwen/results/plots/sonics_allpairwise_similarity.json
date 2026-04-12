@@ -1,0 +1,34 @@
+{
+  "n_tracks": 12,
+  "n_suno": 6,
+  "n_udio": 6,
+  "all_pairs": {
+    "mean": 0.90382,
+    "std": 0.03255,
+    "min": 0.8146,
+    "max": 0.97775,
+    "n": 66
+  },
+  "same_base": {
+    "mean": null,
+    "std": null,
+    "n": 0,
+    "pairs": []
+  },
+  "diff_base": {
+    "mean": 0.90382,
+    "std": 0.03255,
+    "n": 66
+  },
+  "same_engine": {
+    "mean": 0.91542,
+    "std": 0.03346,
+    "n": 30
+  },
+  "diff_engine": {
+    "mean": 0.89415,
+    "std": 0.02835,
+    "n": 36
+  },
+  "gap": null
+}

@@ -1,0 +1,14 @@
+{
+  "best_val_loss": 0.584361698783812,
+  "epochs_completed": 42,
+  "training_minutes": 2.1198,
+  "train_pairs": 236,
+  "val_pairs": 61,
+  "train_positive_count": 95,
+  "train_negative_count": 141,
+  "val_positive_count": 24,
+  "val_negative_count": 37,
+  "runtime_best_model": "not-available",
+  "drive_best_model": "models/siamese_custom_1294_weighted_best.pt",
+  "drive_curve": "not-available"
+}

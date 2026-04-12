@@ -1,0 +1,90 @@
+{
+  "feature_dir_1294": "features/mippia_features_1294",
+  "expected_audio_count": 127,
+  "cache_file_count": 127,
+  "missing_cache_count": 0,
+  "extra_cache_count": 0,
+  "all_shapes_valid_1294": true,
+  "sample_preview": [
+    {
+      "file": "001_comp.npy",
+      "shape": [
+        59,
+        1294
+      ],
+      "dtype": "float32"
+    },
+    {
+      "file": "001_ori.npy",
+      "shape": [
+        49,
+        1294
+      ],
+      "dtype": "float32"
+    },
+    {
+      "file": "002_ori.npy",
+      "shape": [
+        37,
+        1294
+      ],
+      "dtype": "float32"
+    },
+    {
+      "file": "003_comp.npy",
+      "shape": [
+        53,
+        1294
+      ],
+      "dtype": "float32"
+    },
+    {
+      "file": "003_ori.npy",
+      "shape": [
+        40,
+        1294
+      ],
+      "dtype": "float32"
+    },
+    {
+      "file": "004_comp.npy",
+      "shape": [
+        41,
+        1294
+      ],
+      "dtype": "float32"
+    },
+    {
+      "file": "004_ori.npy",
+      "shape": [
+        52,
+        1294
+      ],
+      "dtype": "float32"
+    },
+    {
+      "file": "005_comp.npy",
+      "shape": [
+        56,
+        1294
+      ],
+      "dtype": "float32"
+    },
+    {
+      "file": "005_ori.npy",
+      "shape": [
+        58,
+        1294
+      ],
+      "dtype": "float32"
+    },
+    {
+      "file": "006_comp.npy",
+      "shape": [
+        44,
+        1294
+      ],
+      "dtype": "float32"
+    }
+  ]
+}

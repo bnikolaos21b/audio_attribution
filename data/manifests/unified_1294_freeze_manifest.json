@@ -1,0 +1,22 @@
+{
+  "status": "unified_1294_features_ready_training_failed_on_repo_loader",
+  "mippia_feature_dir_1294": "features/mippia_features_1294",
+  "mippia_cache_count": 127,
+  "sonics_feature_dir_1294": "features/sonics_cache/features_1294",
+  "sonics_cache_count": 160,
+  "feature_pairs_csv": "features/reports/complex_mippia_sonics_feature_pairs_1294.csv",
+  "feature_pair_count": 472,
+  "pair_kind_counts": {
+    "mippia_sonics_negative": 156,
+    "mippia_negative": 117,
+    "sonics_same_base_positive": 80,
+    "sonics_diff_base_negative": 80,
+    "mippia_positive": 39
+  },
+  "label_counts": {
+    "0.0": 353,
+    "1.0": 119
+  },
+  "failure_reason": "repo training path fed 782-dim tensors into 1294-dim Siamese model",
+  "next_step": "replace repo loader / dataset path with custom 1294 feature dataset for training"
+}

@@ -1,0 +1,473 @@
+path_a,path_b,label,description,pair_kind,source_group,path_a_exists,path_b_exists
+001_ori.mp3,001_comp.mp3,1.0,plag: 'Summer Dream' → '김민종   귀천도애(歸天道哀) (가사 첨부)',mippia_positive,mippia,True,True
+003_ori.mp3,003_comp.mp3,1.0,plag: 'The Gap Band - Oops Upside Your Head' → 'Mark Ronson - Uptown Funk (Official Video) ft. Bruno Mars',mippia_positive,mippia,True,True
+004_ori.mp3,004_comp.mp3,1.0,plag: 'Las Chicas Del Can El Negro No Puede' → 'Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song)',mippia_positive,mippia,True,True
+005_ori.mp3,005_comp.mp3,1.0,remake: 'Jennifer Rush - The Power Of Love (Official Video) (VOD)' → 'Céline Dion - The Power Of Love (Official Remastered HD Video)',mippia_positive,mippia,True,True
+009_ori.mp3,009_comp.mp3,1.0,plag: 'Love Is A Wonderful Thing (1991 Remastered)' → 'Michael Bolton - Love Is a Wonderful Thing',mippia_positive,mippia,True,True
+011_ori.mp3,011_comp.mp3,1.0,remake: 'Without you - Badfinger' → 'Mariah Carey - Without You (Official Lyric Video)',mippia_positive,mippia,True,True
+013_ori.mp3,013_comp.mp3,1.0,plag: '조덕배 - 나의 옛날 이야기' → '&design(앤디자인)-문근영',mippia_positive,mippia,True,True
+014_ori.mp3,014_comp.mp3,1.0,plag: '情熱(정열)-斉藤由貴(사이토 유키)' → '[ArtTrack] 변진섭 - 로라',mippia_positive,mippia,True,True
+015_ori.mp3,015_comp.mp3,1.0,plag: '＂Dont Look In My EYes＂ - Sam Harris (1984)' → '날 울리지마 (Don’t Make Me Cry)',mippia_positive,mippia,True,True
+016_ori.mp3,016_comp.mp3,1.0,plag: 'シャ乱Q「こんなにあなたを愛しているのに」' → '플라워-친구',mippia_positive,mippia,True,True
+017_ori.mp3,017_comp.mp3,1.0,plag: '하늘에서 내리는 1억개의 별-空から降る一億の星-the smile has left your eyes' → 'FTISLAND (FT아일랜드) - 사랑앓이 [가사⧸Lyrics]',mippia_positive,mippia,True,True
+018_ori.mp3,018_comp.mp3,1.0,plag: '[Official Audio] 이정현(Lee Jung-hyun) - 와' → 'Bandido - Vamos Amigos (Eurodance Version)',mippia_positive,mippia,True,True
+019_ori.mp3,019_comp.mp3,1.0,plag: 'FAKE LOVE' → 'Seiell - Scenne Nenne MV (Plagiat BTS Fake Love)',mippia_positive,mippia,True,True
+020_ori.mp3,020_comp.mp3,1.0,plag: '박혜경(더더) - Its You (1998年)' → '너에게 쓰는 편지 (Feat. 린)',mippia_positive,mippia,True,True
+021_ori.mp3,021_comp.mp3,1.0,remake: 'Vaance & Deerock - Electric (feat. Robbie Rosen) [NCS Release]' → 'VAANCE & Deerock - Electric (feat. Robbie Rosen) (jeonghyeon Remix) [NCS Release]',mippia_positive,mippia,True,True
+022_ori.mp3,022_comp.mp3,1.0,plag: '더 아스트로 제트 - 해변의 여인 (키보이스 해변으로 가요)원곡' → '키보이스 (특선2집) - 해변으로 가요 1970',mippia_positive,mippia,True,True
+024_ori.mp3,024_comp.mp3,1.0,plag: 'Every Time You Go Away' → '임재범 - 이 밤이 지나면',mippia_positive,mippia,True,True
+025_ori.mp3,025_comp.mp3,1.0,"plag: 'Whitney Houston I Know Him So Well (from Chess) 1987(휘트니 휴스턴 I Know Him So Well(장필순 내 사랑인걸 표절 노래,원곡)' → '내사랑인걸'",mippia_positive,mippia,True,True
+027_ori.mp3,027_comp.mp3,1.0,plag: 'Inoue Yosui - Hotel Riverside ⧸ 이노우에 요수이 - 호텔 리버사이드' → '잃어버린 계절 - 벗님들(1986)',mippia_positive,mippia,True,True
+029_ori.mp3,029_comp.mp3,1.0,plag: 'Bobby Brown - Humpin Around' → '이승철…방황(가사)',mippia_positive,mippia,True,True
+032_ori.mp3,032_comp.mp3,1.0,remake: 'Itoshi no Ellie' → '박상민 Ellie My Love (원곡 서던올스타) (가사 첨부)',mippia_positive,mippia,True,True
+034_ori.mp3,034_comp.mp3,1.0,plag: 'Queen - Under Pressure (Official Video)' → 'Vanilla Ice - Ice Ice Baby (Official Music Video)',mippia_positive,mippia,True,True
+037_ori.mp3,037_comp.mp3,1.0,plag: 'Joyful Noise - Official Music Video: FLAME feat. Lecrae & John Reilly' → 'Katy Perry - Dark Horse (Lyrics) ft. Juicy J',mippia_positive,mippia,True,True
+043_ori.mp3,043_comp.mp3,1.0,plag: 'Maroon 5 - This Love (Official Music Video)' → '이승기(Lee Seung Gi) 가면 (가사 첨부)',mippia_positive,mippia,True,True
+045_ori.mp3,045_comp.mp3,1.0,remake: 'Sting - Shape of My Heart (Official Music Video)' → 'Juice WRLD - Lucid Dreams (Official Music Video)',mippia_positive,mippia,True,True
+047_ori.mp3,047_comp.mp3,1.0,plag: '忍者 お祭り忍者' → '[4K] 룰라 - 천상유애 MV 1995 4K AI Upscaling',mippia_positive,mippia,True,True
+052_ori.mp3,052_comp.mp3,1.0,remake: '中島美嘉 (나카시마 미카)-雪の華 (눈의 꽃)' → '박효신-눈의 꽃',mippia_positive,mippia,True,True
+053_ori.mp3,053_comp.mp3,1.0,remake: 'Alain Barrière-Un Poète' → '배인숙-누구라도 그러하듯이',mippia_positive,mippia,True,True
+054_ori.mp3,054_comp.mp3,1.0,remake: 'Gloria Gaynor-I Will Survive' → '진주-난 괜찮아',mippia_positive,mippia,True,True
+055_ori.mp3,055_comp.mp3,1.0,remake: 'X Japan-Tears' → '엠씨더맥스-잠시만 안녕',mippia_positive,mippia,True,True
+056_ori.mp3,056_comp.mp3,1.0,remake: '平井堅 (히라이 켄)-瞳をとじて (눈을 감고서)' → '정재욱-가만히 눈을 감고',mippia_positive,mippia,True,True
+057_ori.mp3,057_comp.mp3,1.0,"remake: 'Lee Oskar, Teddy Andreas-My Love, Beside Me' → '김현식-내 사랑 내 곁에'",mippia_positive,mippia,True,True
+058_ori.mp3,058_comp.mp3,1.0,remake: 'misia-つつみ込むように' → 'SES-감싸안으며',mippia_positive,mippia,True,True
+060_ori.mp3,060_comp.mp3,1.0,remake: '이문세-소녀' → '오혁-소녀',mippia_positive,mippia,True,True
+061_ori.mp3,061_comp.mp3,1.0,remake: '조규만-다 줄 거야' → '이승기-다 줄 거야',mippia_positive,mippia,True,True
+062_ori.mp3,062_comp.mp3,1.0,remake: '다섯 손가락-풍선' → '동방신기-풍선',mippia_positive,mippia,True,True
+063_ori.mp3,063_comp.mp3,1.0,remake: '뱅크-가질 수 없는 너' → '휘인-가질 수 없는 너',mippia_positive,mippia,True,True
+066_ori.mp3,066_comp.mp3,1.0,"plag: 'The Police - Every Breath You Take (Official Music Video)' → ""Puff Daddy [feat. Faith Evans & 112] - I'll Be Missing You (Official Music Video)""",mippia_positive,mippia,True,True
+069_ori.mp3,069_comp.mp3,1.0,"plag: ""Right Said Fred - I'm Too Sexy (Original Mix - 2006 Version)"" → 'Taylor Swift - Look What You Made Me Do'",mippia_positive,mippia,True,True
+042_ori.mp3,058_ori.mp3,0.0,neg-cross: 'Warren Zevon - Werewolves Of London (Official Music Video) [HD]' ↔ 'misia-つつみ込むように',mippia_negative,mippia,True,True
+055_ori.mp3,006_ori.mp3,0.0,neg-cross: 'X Japan-Tears' ↔ 'Killing Joke - Eighties',mippia_negative,mippia,True,True
+004_ori.mp3,035_ori.mp3,0.0,neg-cross: 'Las Chicas Del Can El Negro No Puede' ↔ 'Dragon Night',mippia_negative,mippia,True,True
+027_ori.mp3,034_ori.mp3,0.0,neg-cross: 'Inoue Yosui - Hotel Riverside ⧸ 이노우에 요수이 - 호텔 리버사이드' ↔ 'Queen - Under Pressure (Official Video)',mippia_negative,mippia,True,True
+029_ori.mp3,036_ori.mp3,0.0,neg-cross: 'Bobby Brown - Humpin Around' ↔ 'Sara Bareilles - Brave (Official Video)',mippia_negative,mippia,True,True
+034_ori.mp3,063_ori.mp3,0.0,neg-cross: 'Queen - Under Pressure (Official Video)' ↔ '뱅크-가질 수 없는 너',mippia_negative,mippia,True,True
+019_ori.mp3,038_ori.mp3,0.0,neg-cross: 'FAKE LOVE' ↔ 'Gareth Gates - Listen to My Heart (Official Audio)',mippia_negative,mippia,True,True
+061_ori.mp3,009_ori.mp3,0.0,neg-cross: '조규만-다 줄 거야' ↔ 'Love Is A Wonderful Thing (1991 Remastered)',mippia_negative,mippia,True,True
+054_ori.mp3,003_ori.mp3,0.0,neg-cross: 'Gloria Gaynor-I Will Survive' ↔ 'The Gap Band - Oops Upside Your Head',mippia_negative,mippia,True,True
+005_ori.mp3,052_ori.mp3,0.0,neg-cross: 'Jennifer Rush - The Power Of Love (Official Video) (VOD)' ↔ '中島美嘉 (나카시마 미카)-雪の華 (눈의 꽃)',mippia_negative,mippia,True,True
+020_ori.mp3,033_ori.mp3,0.0,neg-cross: '박혜경(더더) - Its You (1998年)' ↔ 'Matt Cardle - Amazing',mippia_negative,mippia,True,True
+058_ori.mp3,036_ori.mp3,0.0,neg-cross: 'misia-つつみ込むように' ↔ 'Sara Bareilles - Brave (Official Video)',mippia_negative,mippia,True,True
+046_ori.mp3,053_ori.mp3,0.0,neg-cross: 'Alice Deejay - Better Off Alone (Official Video)' ↔ 'Alain Barrière-Un Poète',mippia_negative,mippia,True,True
+052_ori.mp3,029_ori.mp3,0.0,neg-cross: '中島美嘉 (나카시마 미카)-雪の華 (눈의 꽃)' ↔ 'Bobby Brown - Humpin Around',mippia_negative,mippia,True,True
+008_ori.mp3,063_ori.mp3,0.0,neg-cross: 'Paramore: Misery Business [OFFICIAL VIDEO]' ↔ '뱅크-가질 수 없는 너',mippia_negative,mippia,True,True
+055_ori.mp3,027_ori.mp3,0.0,neg-cross: 'X Japan-Tears' ↔ 'Inoue Yosui - Hotel Riverside ⧸ 이노우에 요수이 - 호텔 리버사이드',mippia_negative,mippia,True,True
+041_ori.mp3,008_ori.mp3,0.0,neg-cross: '[PV]  GLAY ⧸ More Than Love' ↔ 'Paramore: Misery Business [OFFICIAL VIDEO]',mippia_negative,mippia,True,True
+003_ori.mp3,042_ori.mp3,0.0,neg-cross: 'The Gap Band - Oops Upside Your Head' ↔ 'Warren Zevon - Werewolves Of London (Official Music Video) [HD]',mippia_negative,mippia,True,True
+029_ori.mp3,040_ori.mp3,0.0,neg-cross: 'Bobby Brown - Humpin Around' ↔ 'Astrud Gilberto - Maria Quiet',mippia_negative,mippia,True,True
+050_ori.mp3,044_ori.mp3,0.0,neg-cross: 'The Police - Message In A Bottle (Official Music Video)' ↔ 'Crazy Frog - Axel F (Official Video)',mippia_negative,mippia,True,True
+040_ori.mp3,058_ori.mp3,0.0,neg-cross: 'Astrud Gilberto - Maria Quiet' ↔ 'misia-つつみ込むように',mippia_negative,mippia,True,True
+042_ori.mp3,059_ori.mp3,0.0,neg-cross: 'Warren Zevon - Werewolves Of London (Official Music Video) [HD]' ↔ '파파야-내얘길들어봐',mippia_negative,mippia,True,True
+039_ori.mp3,012_ori.mp3,0.0,neg-cross: 'G.R.L. - Ugly Heart' ↔ 'The Rubinoos - I Want To Be Your Boyfriend',mippia_negative,mippia,True,True
+064_ori.mp3,050_ori.mp3,0.0,neg-cross: 'TLC - No Scrubs (Lyrics)' ↔ 'The Police - Message In A Bottle (Official Music Video)',mippia_negative,mippia,True,True
+028_ori.mp3,047_ori.mp3,0.0,neg-cross: 'Seri Yoko- Shiki no uta [ 芹洋子 四季の歌 ] HD (Song of 4 Seasons)' ↔ '忍者 お祭り忍者',mippia_negative,mippia,True,True
+003_ori.mp3,066_ori.mp3,0.0,neg-cross: 'The Gap Band - Oops Upside Your Head' ↔ 'The Police - Every Breath You Take (Official Music Video)',mippia_negative,mippia,True,True
+021_ori.mp3,046_ori.mp3,0.0,neg-cross: 'Vaance & Deerock - Electric (feat. Robbie Rosen) [NCS Release]' ↔ 'Alice Deejay - Better Off Alone (Official Video)',mippia_negative,mippia,True,True
+049_ori.mp3,058_ori.mp3,0.0,neg-cross: 'Major Lazer - Sua Cara (Feat. Anitta & Pabllo Vittar) (Official Music Video)' ↔ 'misia-つつみ込むように',mippia_negative,mippia,True,True
+005_ori.mp3,056_ori.mp3,0.0,neg-cross: 'Jennifer Rush - The Power Of Love (Official Video) (VOD)' ↔ '平井堅 (히라이 켄)-瞳をとじて (눈을 감고서)',mippia_negative,mippia,True,True
+010_ori.mp3,049_ori.mp3,0.0,neg-cross: 'I cigni di Balaka' ↔ 'Major Lazer - Sua Cara (Feat. Anitta & Pabllo Vittar) (Official Music Video)',mippia_negative,mippia,True,True
+008_ori.mp3,055_ori.mp3,0.0,neg-cross: 'Paramore: Misery Business [OFFICIAL VIDEO]' ↔ 'X Japan-Tears',mippia_negative,mippia,True,True
+009_ori.mp3,050_ori.mp3,0.0,neg-cross: 'Love Is A Wonderful Thing (1991 Remastered)' ↔ 'The Police - Message In A Bottle (Official Music Video)',mippia_negative,mippia,True,True
+022_ori.mp3,006_ori.mp3,0.0,neg-cross: '더 아스트로 제트 - 해변의 여인 (키보이스 해변으로 가요)원곡' ↔ 'Killing Joke - Eighties',mippia_negative,mippia,True,True
+022_ori.mp3,005_ori.mp3,0.0,neg-cross: '더 아스트로 제트 - 해변의 여인 (키보이스 해변으로 가요)원곡' ↔ 'Jennifer Rush - The Power Of Love (Official Video) (VOD)',mippia_negative,mippia,True,True
+056_ori.mp3,047_ori.mp3,0.0,neg-cross: '平井堅 (히라이 켄)-瞳をとじて (눈을 감고서)' ↔ '忍者 お祭り忍者',mippia_negative,mippia,True,True
+022_ori.mp3,045_ori.mp3,0.0,neg-cross: '더 아스트로 제트 - 해변의 여인 (키보이스 해변으로 가요)원곡' ↔ 'Sting - Shape of My Heart (Official Music Video)',mippia_negative,mippia,True,True
+018_ori.mp3,063_ori.mp3,0.0,neg-cross: '[Official Audio] 이정현(Lee Jung-hyun) - 와' ↔ '뱅크-가질 수 없는 너',mippia_negative,mippia,True,True
+009_ori.mp3,003_ori.mp3,0.0,neg-cross: 'Love Is A Wonderful Thing (1991 Remastered)' ↔ 'The Gap Band - Oops Upside Your Head',mippia_negative,mippia,True,True
+043_ori.mp3,006_ori.mp3,0.0,neg-cross: 'Maroon 5 - This Love (Official Music Video)' ↔ 'Killing Joke - Eighties',mippia_negative,mippia,True,True
+003_comp.mp3,043_comp.mp3,0.0,neg-comp-comp: 'Mark Ronson - Uptown Funk (Official Video) ft. Bruno Mars' ↔ '이승기(Lee Seung Gi) 가면 (가사 첨부)',mippia_negative,mippia,True,True
+037_comp.mp3,052_comp.mp3,0.0,neg-comp-comp: 'Katy Perry - Dark Horse (Lyrics) ft. Juicy J' ↔ '박효신-눈의 꽃',mippia_negative,mippia,True,True
+004_comp.mp3,053_comp.mp3,0.0,neg-comp-comp: 'Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song)' ↔ '배인숙-누구라도 그러하듯이',mippia_negative,mippia,True,True
+018_comp.mp3,056_comp.mp3,0.0,neg-comp-comp: 'Bandido - Vamos Amigos (Eurodance Version)' ↔ '정재욱-가만히 눈을 감고',mippia_negative,mippia,True,True
+053_comp.mp3,006_comp.mp3,0.0,neg-comp-comp: '배인숙-누구라도 그러하듯이' ↔ 'Nirvana - Come As You Are (Official Music Video)',mippia_negative,mippia,True,True
+065_comp.mp3,008_comp.mp3,0.0,neg-comp-comp: 'Ed Sheeran - Thinking out Loud (Lyrics)' ↔ 'Olivia Rodrigo - good 4 u (Lyrics)',mippia_negative,mippia,True,True
+050_comp.mp3,017_comp.mp3,0.0,neg-comp-comp: 'Rihanna-Love without Tragedy(only)' ↔ 'FTISLAND (FT아일랜드) - 사랑앓이 [가사⧸Lyrics]',mippia_negative,mippia,True,True
+036_comp.mp3,055_comp.mp3,0.0,neg-comp-comp: 'Katy Perry - Roar' ↔ '엠씨더맥스-잠시만 안녕',mippia_negative,mippia,True,True
+060_comp.mp3,009_comp.mp3,0.0,neg-comp-comp: '오혁-소녀' ↔ 'Michael Bolton - Love Is a Wonderful Thing',mippia_negative,mippia,True,True
+027_comp.mp3,049_comp.mp3,0.0,"neg-comp-comp: '잃어버린 계절 - 벗님들(1986)' ↔ 'DJ Snake - Taki Taki ft. Selena Gomez, Ozuna, Cardi B (Official Music Video)'",mippia_negative,mippia,True,True
+012_comp.mp3,035_comp.mp3,0.0,neg-comp-comp: 'Avril Lavigne - Girlfriend (Official Video)' ↔ '[MV] Lee Mujin(이무진) _ Traffic light(신호등)',mippia_negative,mippia,True,True
+049_comp.mp3,036_comp.mp3,0.0,"neg-comp-comp: 'DJ Snake - Taki Taki ft. Selena Gomez, Ozuna, Cardi B (Official Music Video)' ↔ 'Katy Perry - Roar'",mippia_negative,mippia,True,True
+029_comp.mp3,016_comp.mp3,0.0,neg-comp-comp: '이승철…방황(가사)' ↔ '플라워-친구',mippia_negative,mippia,True,True
+012_comp.mp3,027_comp.mp3,0.0,neg-comp-comp: 'Avril Lavigne - Girlfriend (Official Video)' ↔ '잃어버린 계절 - 벗님들(1986)',mippia_negative,mippia,True,True
+047_comp.mp3,068_comp.mp3,0.0,"neg-comp-comp: '[4K] 룰라 - 천상유애 MV 1995 4K AI Upscaling' ↔ ""Rod Stewart - Da Ya Think I'm Sexy? (Official Video) [HD Remaster]""",mippia_negative,mippia,True,True
+056_comp.mp3,052_comp.mp3,0.0,neg-comp-comp: '정재욱-가만히 눈을 감고' ↔ '박효신-눈의 꽃',mippia_negative,mippia,True,True
+061_comp.mp3,032_comp.mp3,0.0,neg-comp-comp: '이승기-다 줄 거야' ↔ '박상민 Ellie My Love (원곡 서던올스타) (가사 첨부)',mippia_negative,mippia,True,True
+020_comp.mp3,010_comp.mp3,0.0,neg-comp-comp: '너에게 쓰는 편지 (Feat. 린)' ↔ 'Michael Jackson - Will You Be There (Official Video)',mippia_negative,mippia,True,True
+012_comp.mp3,052_comp.mp3,0.0,neg-comp-comp: 'Avril Lavigne - Girlfriend (Official Video)' ↔ '박효신-눈의 꽃',mippia_negative,mippia,True,True
+019_comp.mp3,065_comp.mp3,0.0,neg-comp-comp: 'Seiell - Scenne Nenne MV (Plagiat BTS Fake Love)' ↔ 'Ed Sheeran - Thinking out Loud (Lyrics)',mippia_negative,mippia,True,True
+005_comp.mp3,070_comp.mp3,0.0,neg-comp-comp: 'Céline Dion - The Power Of Love (Official Remastered HD Video)' ↔ 'Green Day - Warning - [HQ]',mippia_negative,mippia,True,True
+048_comp.mp3,011_comp.mp3,0.0,neg-comp-comp: 'Ed Sheeran - Bad Habits [Official Lyric Video]' ↔ 'Mariah Carey - Without You (Official Lyric Video)',mippia_negative,mippia,True,True
+067_comp.mp3,049_comp.mp3,0.0,"neg-comp-comp: 'Coldplay - Talk (Official Video)' ↔ 'DJ Snake - Taki Taki ft. Selena Gomez, Ozuna, Cardi B (Official Music Video)'",mippia_negative,mippia,True,True
+021_comp.mp3,001_comp.mp3,0.0,neg-comp-comp: 'VAANCE & Deerock - Electric (feat. Robbie Rosen) (jeonghyeon Remix) [NCS Release]' ↔ '김민종   귀천도애(歸天道哀) (가사 첨부)',mippia_negative,mippia,True,True
+069_comp.mp3,021_comp.mp3,0.0,neg-comp-comp: 'Taylor Swift - Look What You Made Me Do' ↔ 'VAANCE & Deerock - Electric (feat. Robbie Rosen) (jeonghyeon Remix) [NCS Release]',mippia_negative,mippia,True,True
+023_comp.mp3,065_comp.mp3,0.0,neg-comp-comp: '이상은 - 사랑할꺼야 Lyric Video (가사 비디오)' ↔ 'Ed Sheeran - Thinking out Loud (Lyrics)',mippia_negative,mippia,True,True
+052_comp.mp3,042_comp.mp3,0.0,neg-comp-comp: '박효신-눈의 꽃' ↔ 'Kid Rock - All Summer Long [Official Music Video]',mippia_negative,mippia,True,True
+050_comp.mp3,057_comp.mp3,0.0,neg-comp-comp: 'Rihanna-Love without Tragedy(only)' ↔ '김현식-내 사랑 내 곁에',mippia_negative,mippia,True,True
+067_comp.mp3,030_comp.mp3,0.0,neg-comp-comp: 'Coldplay - Talk (Official Video)' ↔ '이승철   친구의 친구를 사랑했네 (가사 첨부)',mippia_negative,mippia,True,True
+057_comp.mp3,068_comp.mp3,0.0,"neg-comp-comp: '김현식-내 사랑 내 곁에' ↔ ""Rod Stewart - Da Ya Think I'm Sexy? (Official Video) [HD Remaster]""",mippia_negative,mippia,True,True
+003_comp.mp3,053_comp.mp3,0.0,neg-comp-comp: 'Mark Ronson - Uptown Funk (Official Video) ft. Bruno Mars' ↔ '배인숙-누구라도 그러하듯이',mippia_negative,mippia,True,True
+019_comp.mp3,031_comp.mp3,0.0,neg-comp-comp: 'Seiell - Scenne Nenne MV (Plagiat BTS Fake Love)' ↔ '검은 고양이 네로 -- 터보',mippia_negative,mippia,True,True
+010_comp.mp3,053_comp.mp3,0.0,neg-comp-comp: 'Michael Jackson - Will You Be There (Official Video)' ↔ '배인숙-누구라도 그러하듯이',mippia_negative,mippia,True,True
+039_comp.mp3,052_comp.mp3,0.0,neg-comp-comp: 'Little Mix - Shout Out to My Ex (Official Video)' ↔ '박효신-눈의 꽃',mippia_negative,mippia,True,True
+018_comp.mp3,043_comp.mp3,0.0,neg-comp-comp: 'Bandido - Vamos Amigos (Eurodance Version)' ↔ '이승기(Lee Seung Gi) 가면 (가사 첨부)',mippia_negative,mippia,True,True
+020_comp.mp3,008_comp.mp3,0.0,neg-comp-comp: '너에게 쓰는 편지 (Feat. 린)' ↔ 'Olivia Rodrigo - good 4 u (Lyrics)',mippia_negative,mippia,True,True
+043_comp.mp3,049_comp.mp3,0.0,"neg-comp-comp: '이승기(Lee Seung Gi) 가면 (가사 첨부)' ↔ 'DJ Snake - Taki Taki ft. Selena Gomez, Ozuna, Cardi B (Official Music Video)'",mippia_negative,mippia,True,True
+041_comp.mp3,045_comp.mp3,0.0,neg-comp-comp: 'Buzz(버즈) - Funny Rock' ↔ 'Juice WRLD - Lucid Dreams (Official Music Video)',mippia_negative,mippia,True,True
+030_comp.mp3,057_comp.mp3,0.0,neg-comp-comp: '이승철   친구의 친구를 사랑했네 (가사 첨부)' ↔ '김현식-내 사랑 내 곁에',mippia_negative,mippia,True,True
+017_ori.mp3,011_comp.mp3,0.0,neg-ori-comp: '하늘에서 내리는 1억개의 별-空から降る一億の星-the smile has left your eyes' ↔ 'Mariah Carey - Without You (Official Lyric Video)',mippia_negative,mippia,True,True
+053_ori.mp3,029_comp.mp3,0.0,neg-ori-comp: 'Alain Barrière-Un Poète' ↔ '이승철…방황(가사)',mippia_negative,mippia,True,True
+063_ori.mp3,044_comp.mp3,0.0,neg-ori-comp: '뱅크-가질 수 없는 너' ↔ '[DANCE] 싸이 (PSY) - 챔피언',mippia_negative,mippia,True,True
+021_ori.mp3,029_comp.mp3,0.0,neg-ori-comp: 'Vaance & Deerock - Electric (feat. Robbie Rosen) [NCS Release]' ↔ '이승철…방황(가사)',mippia_negative,mippia,True,True
+028_ori.mp3,042_comp.mp3,0.0,neg-ori-comp: 'Seri Yoko- Shiki no uta [ 芹洋子 四季の歌 ] HD (Song of 4 Seasons)' ↔ 'Kid Rock - All Summer Long [Official Music Video]',mippia_negative,mippia,True,True
+025_ori.mp3,020_comp.mp3,0.0,"neg-ori-comp: 'Whitney Houston I Know Him So Well (from Chess) 1987(휘트니 휴스턴 I Know Him So Well(장필순 내 사랑인걸 표절 노래,원곡)' ↔ '너에게 쓰는 편지 (Feat. 린)'",mippia_negative,mippia,True,True
+053_ori.mp3,013_comp.mp3,0.0,neg-ori-comp: 'Alain Barrière-Un Poète' ↔ '&design(앤디자인)-문근영',mippia_negative,mippia,True,True
+060_ori.mp3,004_comp.mp3,0.0,neg-ori-comp: '이문세-소녀' ↔ 'Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song)',mippia_negative,mippia,True,True
+060_ori.mp3,065_comp.mp3,0.0,neg-ori-comp: '이문세-소녀' ↔ 'Ed Sheeran - Thinking out Loud (Lyrics)',mippia_negative,mippia,True,True
+070_ori.mp3,064_comp.mp3,0.0,neg-ori-comp: 'The Kinks - Picture Book (Official Audio)' ↔ 'Ed Sheeran - Shape of You (Official Music Video)',mippia_negative,mippia,True,True
+005_ori.mp3,055_comp.mp3,0.0,neg-ori-comp: 'Jennifer Rush - The Power Of Love (Official Video) (VOD)' ↔ '엠씨더맥스-잠시만 안녕',mippia_negative,mippia,True,True
+056_ori.mp3,070_comp.mp3,0.0,neg-ori-comp: '平井堅 (히라이 켄)-瞳をとじて (눈을 감고서)' ↔ 'Green Day - Warning - [HQ]',mippia_negative,mippia,True,True
+036_ori.mp3,049_comp.mp3,0.0,"neg-ori-comp: 'Sara Bareilles - Brave (Official Video)' ↔ 'DJ Snake - Taki Taki ft. Selena Gomez, Ozuna, Cardi B (Official Music Video)'",mippia_negative,mippia,True,True
+006_ori.mp3,017_comp.mp3,0.0,neg-ori-comp: 'Killing Joke - Eighties' ↔ 'FTISLAND (FT아일랜드) - 사랑앓이 [가사⧸Lyrics]',mippia_negative,mippia,True,True
+038_ori.mp3,019_comp.mp3,0.0,neg-ori-comp: 'Gareth Gates - Listen to My Heart (Official Audio)' ↔ 'Seiell - Scenne Nenne MV (Plagiat BTS Fake Love)',mippia_negative,mippia,True,True
+042_ori.mp3,012_comp.mp3,0.0,neg-ori-comp: 'Warren Zevon - Werewolves Of London (Official Music Video) [HD]' ↔ 'Avril Lavigne - Girlfriend (Official Video)',mippia_negative,mippia,True,True
+032_ori.mp3,041_comp.mp3,0.0,neg-ori-comp: 'Itoshi no Ellie' ↔ 'Buzz(버즈) - Funny Rock',mippia_negative,mippia,True,True
+008_ori.mp3,006_comp.mp3,0.0,neg-ori-comp: 'Paramore: Misery Business [OFFICIAL VIDEO]' ↔ 'Nirvana - Come As You Are (Official Music Video)',mippia_negative,mippia,True,True
+007_ori.mp3,069_comp.mp3,0.0,neg-ori-comp: 'Artikal Sound System - Live Your Life (Official Audio) (Original Version)' ↔ 'Taylor Swift - Look What You Made Me Do',mippia_negative,mippia,True,True
+006_ori.mp3,019_comp.mp3,0.0,neg-ori-comp: 'Killing Joke - Eighties' ↔ 'Seiell - Scenne Nenne MV (Plagiat BTS Fake Love)',mippia_negative,mippia,True,True
+052_ori.mp3,016_comp.mp3,0.0,neg-ori-comp: '中島美嘉 (나카시마 미카)-雪の華 (눈의 꽃)' ↔ '플라워-친구',mippia_negative,mippia,True,True
+009_ori.mp3,031_comp.mp3,0.0,neg-ori-comp: 'Love Is A Wonderful Thing (1991 Remastered)' ↔ '검은 고양이 네로 -- 터보',mippia_negative,mippia,True,True
+063_ori.mp3,039_comp.mp3,0.0,neg-ori-comp: '뱅크-가질 수 없는 너' ↔ 'Little Mix - Shout Out to My Ex (Official Video)',mippia_negative,mippia,True,True
+008_ori.mp3,070_comp.mp3,0.0,neg-ori-comp: 'Paramore: Misery Business [OFFICIAL VIDEO]' ↔ 'Green Day - Warning - [HQ]',mippia_negative,mippia,True,True
+027_ori.mp3,064_comp.mp3,0.0,neg-ori-comp: 'Inoue Yosui - Hotel Riverside ⧸ 이노우에 요수이 - 호텔 리버사이드' ↔ 'Ed Sheeran - Shape of You (Official Music Video)',mippia_negative,mippia,True,True
+047_ori.mp3,013_comp.mp3,0.0,neg-ori-comp: '忍者 お祭り忍者' ↔ '&design(앤디자인)-문근영',mippia_negative,mippia,True,True
+006_ori.mp3,023_comp.mp3,0.0,neg-ori-comp: 'Killing Joke - Eighties' ↔ '이상은 - 사랑할꺼야 Lyric Video (가사 비디오)',mippia_negative,mippia,True,True
+001_ori.mp3,022_comp.mp3,0.0,neg-ori-comp: 'Summer Dream' ↔ '키보이스 (특선2집) - 해변으로 가요 1970',mippia_negative,mippia,True,True
+055_ori.mp3,054_comp.mp3,0.0,neg-ori-comp: 'X Japan-Tears' ↔ '진주-난 괜찮아',mippia_negative,mippia,True,True
+013_ori.mp3,050_comp.mp3,0.0,neg-ori-comp: '조덕배 - 나의 옛날 이야기' ↔ 'Rihanna-Love without Tragedy(only)',mippia_negative,mippia,True,True
+027_ori.mp3,011_comp.mp3,0.0,neg-ori-comp: 'Inoue Yosui - Hotel Riverside ⧸ 이노우에 요수이 - 호텔 리버사이드' ↔ 'Mariah Carey - Without You (Official Lyric Video)',mippia_negative,mippia,True,True
+055_ori.mp3,035_comp.mp3,0.0,neg-ori-comp: 'X Japan-Tears' ↔ '[MV] Lee Mujin(이무진) _ Traffic light(신호등)',mippia_negative,mippia,True,True
+010_ori.mp3,068_comp.mp3,0.0,"neg-ori-comp: 'I cigni di Balaka' ↔ ""Rod Stewart - Da Ya Think I'm Sexy? (Official Video) [HD Remaster]""",mippia_negative,mippia,True,True
+038_ori.mp3,068_comp.mp3,0.0,"neg-ori-comp: 'Gareth Gates - Listen to My Heart (Official Audio)' ↔ ""Rod Stewart - Da Ya Think I'm Sexy? (Official Video) [HD Remaster]""",mippia_negative,mippia,True,True
+022_ori.mp3,070_comp.mp3,0.0,neg-ori-comp: '더 아스트로 제트 - 해변의 여인 (키보이스 해변으로 가요)원곡' ↔ 'Green Day - Warning - [HQ]',mippia_negative,mippia,True,True
+009_ori.mp3,070_comp.mp3,0.0,neg-ori-comp: 'Love Is A Wonderful Thing (1991 Remastered)' ↔ 'Green Day - Warning - [HQ]',mippia_negative,mippia,True,True
+060_ori.mp3,067_comp.mp3,0.0,neg-ori-comp: '이문세-소녀' ↔ 'Coldplay - Talk (Official Video)',mippia_negative,mippia,True,True
+011_ori.mp3,022_comp.mp3,0.0,neg-ori-comp: 'Without you - Badfinger' ↔ '키보이스 (특선2집) - 해변으로 가요 1970',mippia_negative,mippia,True,True
+027_ori.mp3,016_comp.mp3,0.0,neg-ori-comp: 'Inoue Yosui - Hotel Riverside ⧸ 이노우에 요수이 - 호텔 리버사이드' ↔ '플라워-친구',mippia_negative,mippia,True,True
+fake_00038_udio_0.mp3,fake_00038_udio_1.mp3,1.0,sonics-same-base: fake_00038_udio_0.mp3 ↔ fake_00038_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_00127_suno_0.mp3,fake_00127_suno_1.mp3,1.0,sonics-same-base: fake_00127_suno_0.mp3 ↔ fake_00127_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_00251_udio_0.mp3,fake_00251_udio_1.mp3,1.0,sonics-same-base: fake_00251_udio_0.mp3 ↔ fake_00251_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_00289_suno_0.mp3,fake_00289_suno_1.mp3,1.0,sonics-same-base: fake_00289_suno_0.mp3 ↔ fake_00289_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_00315_suno_0.mp3,fake_00315_suno_1.mp3,1.0,sonics-same-base: fake_00315_suno_0.mp3 ↔ fake_00315_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_00373_udio_0.mp3,fake_00373_udio_1.mp3,1.0,sonics-same-base: fake_00373_udio_0.mp3 ↔ fake_00373_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_00426_udio_0.mp3,fake_00426_udio_1.mp3,1.0,sonics-same-base: fake_00426_udio_0.mp3 ↔ fake_00426_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_00433_suno_0.mp3,fake_00433_suno_1.mp3,1.0,sonics-same-base: fake_00433_suno_0.mp3 ↔ fake_00433_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_00534_suno_0.mp3,fake_00534_suno_1.mp3,1.0,sonics-same-base: fake_00534_suno_0.mp3 ↔ fake_00534_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_00582_udio_0.mp3,fake_00582_udio_1.mp3,1.0,sonics-same-base: fake_00582_udio_0.mp3 ↔ fake_00582_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_00613_udio_0.mp3,fake_00613_udio_1.mp3,1.0,sonics-same-base: fake_00613_udio_0.mp3 ↔ fake_00613_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_00685_udio_0.mp3,fake_00685_udio_1.mp3,1.0,sonics-same-base: fake_00685_udio_0.mp3 ↔ fake_00685_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_00720_udio_0.mp3,fake_00720_udio_1.mp3,1.0,sonics-same-base: fake_00720_udio_0.mp3 ↔ fake_00720_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_00838_suno_0.mp3,fake_00838_suno_1.mp3,1.0,sonics-same-base: fake_00838_suno_0.mp3 ↔ fake_00838_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_00900_udio_0.mp3,fake_00900_udio_1.mp3,1.0,sonics-same-base: fake_00900_udio_0.mp3 ↔ fake_00900_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_00910_udio_0.mp3,fake_00910_udio_1.mp3,1.0,sonics-same-base: fake_00910_udio_0.mp3 ↔ fake_00910_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_00951_udio_0.mp3,fake_00951_udio_1.mp3,1.0,sonics-same-base: fake_00951_udio_0.mp3 ↔ fake_00951_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_01005_suno_0.mp3,fake_01005_suno_1.mp3,1.0,sonics-same-base: fake_01005_suno_0.mp3 ↔ fake_01005_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_01124_udio_0.mp3,fake_01124_udio_1.mp3,1.0,sonics-same-base: fake_01124_udio_0.mp3 ↔ fake_01124_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_01140_suno_0.mp3,fake_01140_suno_1.mp3,1.0,sonics-same-base: fake_01140_suno_0.mp3 ↔ fake_01140_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_01192_udio_0.mp3,fake_01192_udio_1.mp3,1.0,sonics-same-base: fake_01192_udio_0.mp3 ↔ fake_01192_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_01271_udio_0.mp3,fake_01271_udio_1.mp3,1.0,sonics-same-base: fake_01271_udio_0.mp3 ↔ fake_01271_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_01357_suno_0.mp3,fake_01357_suno_1.mp3,1.0,sonics-same-base: fake_01357_suno_0.mp3 ↔ fake_01357_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_01384_suno_0.mp3,fake_01384_suno_1.mp3,1.0,sonics-same-base: fake_01384_suno_0.mp3 ↔ fake_01384_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_01436_udio_0.mp3,fake_01436_udio_1.mp3,1.0,sonics-same-base: fake_01436_udio_0.mp3 ↔ fake_01436_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_01449_udio_0.mp3,fake_01449_udio_1.mp3,1.0,sonics-same-base: fake_01449_udio_0.mp3 ↔ fake_01449_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_01634_udio_0.mp3,fake_01634_udio_1.mp3,1.0,sonics-same-base: fake_01634_udio_0.mp3 ↔ fake_01634_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_01872_udio_0.mp3,fake_01872_udio_1.mp3,1.0,sonics-same-base: fake_01872_udio_0.mp3 ↔ fake_01872_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_01900_suno_0.mp3,fake_01900_suno_1.mp3,1.0,sonics-same-base: fake_01900_suno_0.mp3 ↔ fake_01900_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_01927_suno_0.mp3,fake_01927_suno_1.mp3,1.0,sonics-same-base: fake_01927_suno_0.mp3 ↔ fake_01927_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_02059_udio_0.mp3,fake_02059_udio_1.mp3,1.0,sonics-same-base: fake_02059_udio_0.mp3 ↔ fake_02059_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_02139_udio_0.mp3,fake_02139_udio_1.mp3,1.0,sonics-same-base: fake_02139_udio_0.mp3 ↔ fake_02139_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_02163_suno_0.mp3,fake_02163_suno_1.mp3,1.0,sonics-same-base: fake_02163_suno_0.mp3 ↔ fake_02163_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_02200_suno_0.mp3,fake_02200_suno_1.mp3,1.0,sonics-same-base: fake_02200_suno_0.mp3 ↔ fake_02200_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_02224_suno_0.mp3,fake_02224_suno_1.mp3,1.0,sonics-same-base: fake_02224_suno_0.mp3 ↔ fake_02224_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_02351_suno_0.mp3,fake_02351_suno_1.mp3,1.0,sonics-same-base: fake_02351_suno_0.mp3 ↔ fake_02351_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_02352_udio_0.mp3,fake_02352_udio_1.mp3,1.0,sonics-same-base: fake_02352_udio_0.mp3 ↔ fake_02352_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_02385_suno_0.mp3,fake_02385_suno_1.mp3,1.0,sonics-same-base: fake_02385_suno_0.mp3 ↔ fake_02385_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_02550_suno_0.mp3,fake_02550_suno_1.mp3,1.0,sonics-same-base: fake_02550_suno_0.mp3 ↔ fake_02550_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_02602_suno_0.mp3,fake_02602_suno_1.mp3,1.0,sonics-same-base: fake_02602_suno_0.mp3 ↔ fake_02602_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_02669_udio_0.mp3,fake_02669_udio_1.mp3,1.0,sonics-same-base: fake_02669_udio_0.mp3 ↔ fake_02669_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_02678_udio_0.mp3,fake_02678_udio_1.mp3,1.0,sonics-same-base: fake_02678_udio_0.mp3 ↔ fake_02678_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_02867_udio_0.mp3,fake_02867_udio_1.mp3,1.0,sonics-same-base: fake_02867_udio_0.mp3 ↔ fake_02867_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_02961_udio_0.mp3,fake_02961_udio_1.mp3,1.0,sonics-same-base: fake_02961_udio_0.mp3 ↔ fake_02961_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_03001_udio_0.mp3,fake_03001_udio_1.mp3,1.0,sonics-same-base: fake_03001_udio_0.mp3 ↔ fake_03001_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_03168_udio_0.mp3,fake_03168_udio_1.mp3,1.0,sonics-same-base: fake_03168_udio_0.mp3 ↔ fake_03168_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_03298_udio_0.mp3,fake_03298_udio_1.mp3,1.0,sonics-same-base: fake_03298_udio_0.mp3 ↔ fake_03298_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_03354_udio_0.mp3,fake_03354_udio_1.mp3,1.0,sonics-same-base: fake_03354_udio_0.mp3 ↔ fake_03354_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_03460_suno_0.mp3,fake_03460_suno_1.mp3,1.0,sonics-same-base: fake_03460_suno_0.mp3 ↔ fake_03460_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_03501_udio_0.mp3,fake_03501_udio_1.mp3,1.0,sonics-same-base: fake_03501_udio_0.mp3 ↔ fake_03501_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_03509_udio_0.mp3,fake_03509_udio_1.mp3,1.0,sonics-same-base: fake_03509_udio_0.mp3 ↔ fake_03509_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_03612_suno_0.mp3,fake_03612_suno_1.mp3,1.0,sonics-same-base: fake_03612_suno_0.mp3 ↔ fake_03612_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_03689_suno_0.mp3,fake_03689_suno_1.mp3,1.0,sonics-same-base: fake_03689_suno_0.mp3 ↔ fake_03689_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_03743_suno_0.mp3,fake_03743_suno_1.mp3,1.0,sonics-same-base: fake_03743_suno_0.mp3 ↔ fake_03743_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_03963_udio_0.mp3,fake_03963_udio_1.mp3,1.0,sonics-same-base: fake_03963_udio_0.mp3 ↔ fake_03963_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_03996_udio_0.mp3,fake_03996_udio_1.mp3,1.0,sonics-same-base: fake_03996_udio_0.mp3 ↔ fake_03996_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_03997_suno_0.mp3,fake_03997_suno_1.mp3,1.0,sonics-same-base: fake_03997_suno_0.mp3 ↔ fake_03997_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_04091_udio_0.mp3,fake_04091_udio_1.mp3,1.0,sonics-same-base: fake_04091_udio_0.mp3 ↔ fake_04091_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_04116_udio_0.mp3,fake_04116_udio_1.mp3,1.0,sonics-same-base: fake_04116_udio_0.mp3 ↔ fake_04116_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_04149_udio_0.mp3,fake_04149_udio_1.mp3,1.0,sonics-same-base: fake_04149_udio_0.mp3 ↔ fake_04149_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_04161_suno_0.mp3,fake_04161_suno_1.mp3,1.0,sonics-same-base: fake_04161_suno_0.mp3 ↔ fake_04161_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_04295_suno_0.mp3,fake_04295_suno_1.mp3,1.0,sonics-same-base: fake_04295_suno_0.mp3 ↔ fake_04295_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_04298_suno_0.mp3,fake_04298_suno_1.mp3,1.0,sonics-same-base: fake_04298_suno_0.mp3 ↔ fake_04298_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_04400_suno_0.mp3,fake_04400_suno_1.mp3,1.0,sonics-same-base: fake_04400_suno_0.mp3 ↔ fake_04400_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_04520_suno_0.mp3,fake_04520_suno_1.mp3,1.0,sonics-same-base: fake_04520_suno_0.mp3 ↔ fake_04520_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_04561_suno_0.mp3,fake_04561_suno_1.mp3,1.0,sonics-same-base: fake_04561_suno_0.mp3 ↔ fake_04561_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_04663_udio_0.mp3,fake_04663_udio_1.mp3,1.0,sonics-same-base: fake_04663_udio_0.mp3 ↔ fake_04663_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_04679_suno_0.mp3,fake_04679_suno_1.mp3,1.0,sonics-same-base: fake_04679_suno_0.mp3 ↔ fake_04679_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_04775_udio_0.mp3,fake_04775_udio_1.mp3,1.0,sonics-same-base: fake_04775_udio_0.mp3 ↔ fake_04775_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_04792_udio_0.mp3,fake_04792_udio_1.mp3,1.0,sonics-same-base: fake_04792_udio_0.mp3 ↔ fake_04792_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_04853_suno_0.mp3,fake_04853_suno_1.mp3,1.0,sonics-same-base: fake_04853_suno_0.mp3 ↔ fake_04853_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_04970_suno_0.mp3,fake_04970_suno_1.mp3,1.0,sonics-same-base: fake_04970_suno_0.mp3 ↔ fake_04970_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_04974_udio_0.mp3,fake_04974_udio_1.mp3,1.0,sonics-same-base: fake_04974_udio_0.mp3 ↔ fake_04974_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_05136_udio_0.mp3,fake_05136_udio_1.mp3,1.0,sonics-same-base: fake_05136_udio_0.mp3 ↔ fake_05136_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_05150_udio_0.mp3,fake_05150_udio_1.mp3,1.0,sonics-same-base: fake_05150_udio_0.mp3 ↔ fake_05150_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_05202_suno_0.mp3,fake_05202_suno_1.mp3,1.0,sonics-same-base: fake_05202_suno_0.mp3 ↔ fake_05202_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_05225_suno_0.mp3,fake_05225_suno_1.mp3,1.0,sonics-same-base: fake_05225_suno_0.mp3 ↔ fake_05225_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_05270_udio_0.mp3,fake_05270_udio_1.mp3,1.0,sonics-same-base: fake_05270_udio_0.mp3 ↔ fake_05270_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_05325_udio_0.mp3,fake_05325_udio_1.mp3,1.0,sonics-same-base: fake_05325_udio_0.mp3 ↔ fake_05325_udio_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_05351_suno_0.mp3,fake_05351_suno_1.mp3,1.0,sonics-same-base: fake_05351_suno_0.mp3 ↔ fake_05351_suno_1.mp3,sonics_same_base_positive,sonics_sonics,True,True
+fake_00426_udio_0.mp3,fake_02224_suno_1.mp3,0.0,sonics-diff-base: fake_00426_udio_0.mp3 ↔ fake_02224_suno_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_02224_suno_0.mp3,fake_00838_suno_1.mp3,0.0,sonics-diff-base: fake_02224_suno_0.mp3 ↔ fake_00838_suno_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_04775_udio_1.mp3,fake_04970_suno_1.mp3,0.0,sonics-diff-base: fake_04775_udio_1.mp3 ↔ fake_04970_suno_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_00426_udio_0.mp3,fake_01192_udio_1.mp3,0.0,sonics-diff-base: fake_00426_udio_0.mp3 ↔ fake_01192_udio_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_04970_suno_0.mp3,fake_02867_udio_0.mp3,0.0,sonics-diff-base: fake_04970_suno_0.mp3 ↔ fake_02867_udio_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_00038_udio_0.mp3,fake_03996_udio_1.mp3,0.0,sonics-diff-base: fake_00038_udio_0.mp3 ↔ fake_03996_udio_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_00534_suno_1.mp3,fake_00038_udio_1.mp3,0.0,sonics-diff-base: fake_00534_suno_1.mp3 ↔ fake_00038_udio_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_00838_suno_0.mp3,fake_00373_udio_0.mp3,0.0,sonics-diff-base: fake_00838_suno_0.mp3 ↔ fake_00373_udio_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_00951_udio_1.mp3,fake_00251_udio_1.mp3,0.0,sonics-diff-base: fake_00951_udio_1.mp3 ↔ fake_00251_udio_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_05136_udio_1.mp3,fake_04295_suno_1.mp3,0.0,sonics-diff-base: fake_05136_udio_1.mp3 ↔ fake_04295_suno_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_00315_suno_1.mp3,fake_02602_suno_1.mp3,0.0,sonics-diff-base: fake_00315_suno_1.mp3 ↔ fake_02602_suno_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_01634_udio_1.mp3,fake_05270_udio_0.mp3,0.0,sonics-diff-base: fake_01634_udio_1.mp3 ↔ fake_05270_udio_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_03509_udio_1.mp3,fake_04561_suno_1.mp3,0.0,sonics-diff-base: fake_03509_udio_1.mp3 ↔ fake_04561_suno_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_04663_udio_1.mp3,fake_03743_suno_0.mp3,0.0,sonics-diff-base: fake_04663_udio_1.mp3 ↔ fake_03743_suno_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_01384_suno_1.mp3,fake_00613_udio_1.mp3,0.0,sonics-diff-base: fake_01384_suno_1.mp3 ↔ fake_00613_udio_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_01271_udio_1.mp3,fake_02867_udio_1.mp3,0.0,sonics-diff-base: fake_01271_udio_1.mp3 ↔ fake_02867_udio_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_00582_udio_1.mp3,fake_04116_udio_1.mp3,0.0,sonics-diff-base: fake_00582_udio_1.mp3 ↔ fake_04116_udio_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_00251_udio_0.mp3,fake_01436_udio_1.mp3,0.0,sonics-diff-base: fake_00251_udio_0.mp3 ↔ fake_01436_udio_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_00127_suno_0.mp3,fake_03168_udio_1.mp3,0.0,sonics-diff-base: fake_00127_suno_0.mp3 ↔ fake_03168_udio_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_04775_udio_0.mp3,fake_04520_suno_1.mp3,0.0,sonics-diff-base: fake_04775_udio_0.mp3 ↔ fake_04520_suno_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_04400_suno_1.mp3,fake_01927_suno_0.mp3,0.0,sonics-diff-base: fake_04400_suno_1.mp3 ↔ fake_01927_suno_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_01140_suno_1.mp3,fake_04775_udio_1.mp3,0.0,sonics-diff-base: fake_01140_suno_1.mp3 ↔ fake_04775_udio_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_04149_udio_0.mp3,fake_00373_udio_0.mp3,0.0,sonics-diff-base: fake_04149_udio_0.mp3 ↔ fake_00373_udio_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_04116_udio_0.mp3,fake_01436_udio_1.mp3,0.0,sonics-diff-base: fake_04116_udio_0.mp3 ↔ fake_01436_udio_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_03168_udio_1.mp3,fake_02224_suno_1.mp3,0.0,sonics-diff-base: fake_03168_udio_1.mp3 ↔ fake_02224_suno_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_00038_udio_0.mp3,fake_00838_suno_1.mp3,0.0,sonics-diff-base: fake_00038_udio_0.mp3 ↔ fake_00838_suno_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_00685_udio_1.mp3,fake_00613_udio_0.mp3,0.0,sonics-diff-base: fake_00685_udio_1.mp3 ↔ fake_00613_udio_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_04775_udio_0.mp3,fake_03460_suno_1.mp3,0.0,sonics-diff-base: fake_04775_udio_0.mp3 ↔ fake_03460_suno_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_00289_suno_1.mp3,fake_02678_udio_1.mp3,0.0,sonics-diff-base: fake_00289_suno_1.mp3 ↔ fake_02678_udio_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_00315_suno_1.mp3,fake_04970_suno_1.mp3,0.0,sonics-diff-base: fake_00315_suno_1.mp3 ↔ fake_04970_suno_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_03001_udio_0.mp3,fake_00289_suno_1.mp3,0.0,sonics-diff-base: fake_03001_udio_0.mp3 ↔ fake_00289_suno_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_00534_suno_1.mp3,fake_01124_udio_0.mp3,0.0,sonics-diff-base: fake_00534_suno_1.mp3 ↔ fake_01124_udio_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_00613_udio_1.mp3,fake_00433_suno_1.mp3,0.0,sonics-diff-base: fake_00613_udio_1.mp3 ↔ fake_00433_suno_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_01124_udio_1.mp3,fake_02385_suno_1.mp3,0.0,sonics-diff-base: fake_01124_udio_1.mp3 ↔ fake_02385_suno_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_00951_udio_1.mp3,fake_04775_udio_0.mp3,0.0,sonics-diff-base: fake_00951_udio_1.mp3 ↔ fake_04775_udio_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_01271_udio_1.mp3,fake_05202_suno_1.mp3,0.0,sonics-diff-base: fake_01271_udio_1.mp3 ↔ fake_05202_suno_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_00433_suno_1.mp3,fake_01005_suno_0.mp3,0.0,sonics-diff-base: fake_00433_suno_1.mp3 ↔ fake_01005_suno_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_03001_udio_1.mp3,fake_04091_udio_1.mp3,0.0,sonics-diff-base: fake_03001_udio_1.mp3 ↔ fake_04091_udio_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_03963_udio_0.mp3,fake_00289_suno_1.mp3,0.0,sonics-diff-base: fake_03963_udio_0.mp3 ↔ fake_00289_suno_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_04663_udio_0.mp3,fake_04561_suno_1.mp3,0.0,sonics-diff-base: fake_04663_udio_0.mp3 ↔ fake_04561_suno_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_04520_suno_1.mp3,fake_00838_suno_0.mp3,0.0,sonics-diff-base: fake_04520_suno_1.mp3 ↔ fake_00838_suno_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_04974_udio_0.mp3,fake_02961_udio_1.mp3,0.0,sonics-diff-base: fake_04974_udio_0.mp3 ↔ fake_02961_udio_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_04520_suno_0.mp3,fake_02139_udio_1.mp3,0.0,sonics-diff-base: fake_04520_suno_0.mp3 ↔ fake_02139_udio_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_02200_suno_0.mp3,fake_03509_udio_0.mp3,0.0,sonics-diff-base: fake_02200_suno_0.mp3 ↔ fake_03509_udio_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_01449_udio_0.mp3,fake_04520_suno_0.mp3,0.0,sonics-diff-base: fake_01449_udio_0.mp3 ↔ fake_04520_suno_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_01436_udio_0.mp3,fake_02224_suno_0.mp3,0.0,sonics-diff-base: fake_01436_udio_0.mp3 ↔ fake_02224_suno_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_05225_suno_0.mp3,fake_02669_udio_1.mp3,0.0,sonics-diff-base: fake_05225_suno_0.mp3 ↔ fake_02669_udio_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_04853_suno_0.mp3,fake_04775_udio_0.mp3,0.0,sonics-diff-base: fake_04853_suno_0.mp3 ↔ fake_04775_udio_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_04295_suno_1.mp3,fake_04400_suno_0.mp3,0.0,sonics-diff-base: fake_04295_suno_1.mp3 ↔ fake_04400_suno_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_02163_suno_1.mp3,fake_05136_udio_1.mp3,0.0,sonics-diff-base: fake_02163_suno_1.mp3 ↔ fake_05136_udio_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_03509_udio_0.mp3,fake_01900_suno_0.mp3,0.0,sonics-diff-base: fake_03509_udio_0.mp3 ↔ fake_01900_suno_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_05225_suno_1.mp3,fake_05270_udio_1.mp3,0.0,sonics-diff-base: fake_05225_suno_1.mp3 ↔ fake_05270_udio_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_05150_udio_0.mp3,fake_00910_udio_1.mp3,0.0,sonics-diff-base: fake_05150_udio_0.mp3 ↔ fake_00910_udio_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_04116_udio_1.mp3,fake_03298_udio_1.mp3,0.0,sonics-diff-base: fake_04116_udio_1.mp3 ↔ fake_03298_udio_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_03168_udio_1.mp3,fake_01872_udio_1.mp3,0.0,sonics-diff-base: fake_03168_udio_1.mp3 ↔ fake_01872_udio_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_01436_udio_1.mp3,fake_01384_suno_0.mp3,0.0,sonics-diff-base: fake_01436_udio_1.mp3 ↔ fake_01384_suno_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_03743_suno_1.mp3,fake_03460_suno_0.mp3,0.0,sonics-diff-base: fake_03743_suno_1.mp3 ↔ fake_03460_suno_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_04970_suno_1.mp3,fake_03460_suno_0.mp3,0.0,sonics-diff-base: fake_04970_suno_1.mp3 ↔ fake_03460_suno_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_02385_suno_1.mp3,fake_00910_udio_1.mp3,0.0,sonics-diff-base: fake_02385_suno_1.mp3 ↔ fake_00910_udio_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_00433_suno_0.mp3,fake_03460_suno_1.mp3,0.0,sonics-diff-base: fake_00433_suno_0.mp3 ↔ fake_03460_suno_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_02550_suno_1.mp3,fake_00838_suno_1.mp3,0.0,sonics-diff-base: fake_02550_suno_1.mp3 ↔ fake_00838_suno_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_02139_udio_1.mp3,fake_04091_udio_1.mp3,0.0,sonics-diff-base: fake_02139_udio_1.mp3 ↔ fake_04091_udio_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_04974_udio_1.mp3,fake_05136_udio_0.mp3,0.0,sonics-diff-base: fake_04974_udio_1.mp3 ↔ fake_05136_udio_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_04116_udio_1.mp3,fake_04520_suno_1.mp3,0.0,sonics-diff-base: fake_04116_udio_1.mp3 ↔ fake_04520_suno_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_00426_udio_0.mp3,fake_01384_suno_0.mp3,0.0,sonics-diff-base: fake_00426_udio_0.mp3 ↔ fake_01384_suno_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_03963_udio_0.mp3,fake_04400_suno_1.mp3,0.0,sonics-diff-base: fake_03963_udio_0.mp3 ↔ fake_04400_suno_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_04775_udio_1.mp3,fake_00373_udio_0.mp3,0.0,sonics-diff-base: fake_04775_udio_1.mp3 ↔ fake_00373_udio_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_02678_udio_0.mp3,fake_03354_udio_0.mp3,0.0,sonics-diff-base: fake_02678_udio_0.mp3 ↔ fake_03354_udio_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_04149_udio_1.mp3,fake_04520_suno_0.mp3,0.0,sonics-diff-base: fake_04149_udio_1.mp3 ↔ fake_04520_suno_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_02678_udio_0.mp3,fake_03501_udio_0.mp3,0.0,sonics-diff-base: fake_02678_udio_0.mp3 ↔ fake_03501_udio_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_02163_suno_0.mp3,fake_02352_udio_1.mp3,0.0,sonics-diff-base: fake_02163_suno_0.mp3 ↔ fake_02352_udio_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_03168_udio_0.mp3,fake_03963_udio_0.mp3,0.0,sonics-diff-base: fake_03168_udio_0.mp3 ↔ fake_03963_udio_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_04400_suno_0.mp3,fake_01271_udio_0.mp3,0.0,sonics-diff-base: fake_04400_suno_0.mp3 ↔ fake_01271_udio_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_02224_suno_0.mp3,fake_04679_suno_0.mp3,0.0,sonics-diff-base: fake_02224_suno_0.mp3 ↔ fake_04679_suno_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_02550_suno_1.mp3,fake_04400_suno_0.mp3,0.0,sonics-diff-base: fake_02550_suno_1.mp3 ↔ fake_04400_suno_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_02352_udio_0.mp3,fake_04679_suno_0.mp3,0.0,sonics-diff-base: fake_02352_udio_0.mp3 ↔ fake_04679_suno_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_03997_suno_1.mp3,fake_05325_udio_0.mp3,0.0,sonics-diff-base: fake_03997_suno_1.mp3 ↔ fake_05325_udio_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_04663_udio_1.mp3,fake_00534_suno_1.mp3,0.0,sonics-diff-base: fake_04663_udio_1.mp3 ↔ fake_00534_suno_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_04091_udio_0.mp3,fake_00900_udio_1.mp3,0.0,sonics-diff-base: fake_04091_udio_0.mp3 ↔ fake_00900_udio_1.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+fake_03996_udio_1.mp3,fake_04663_udio_0.mp3,0.0,sonics-diff-base: fake_03996_udio_1.mp3 ↔ fake_04663_udio_0.mp3,sonics_diff_base_negative,sonics_sonics,True,True
+001_ori.mp3,fake_03963_udio_0.mp3,0.0,mippia-sonics-negative: 001_ori.mp3 ↔ fake_03963_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+001_ori.mp3,fake_01005_suno_1.mp3,0.0,mippia-sonics-negative: 001_ori.mp3 ↔ fake_01005_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+001_ori.mp3,fake_00038_udio_1.mp3,0.0,mippia-sonics-negative: 001_ori.mp3 ↔ fake_00038_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+001_ori.mp3,fake_00910_udio_0.mp3,0.0,mippia-sonics-negative: 001_ori.mp3 ↔ fake_00910_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+003_ori.mp3,fake_02385_suno_1.mp3,0.0,mippia-sonics-negative: 003_ori.mp3 ↔ fake_02385_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+003_ori.mp3,fake_03743_suno_1.mp3,0.0,mippia-sonics-negative: 003_ori.mp3 ↔ fake_03743_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+003_ori.mp3,fake_03612_suno_1.mp3,0.0,mippia-sonics-negative: 003_ori.mp3 ↔ fake_03612_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+003_ori.mp3,fake_00613_udio_0.mp3,0.0,mippia-sonics-negative: 003_ori.mp3 ↔ fake_00613_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+004_ori.mp3,fake_03963_udio_0.mp3,0.0,mippia-sonics-negative: 004_ori.mp3 ↔ fake_03963_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+004_ori.mp3,fake_00534_suno_0.mp3,0.0,mippia-sonics-negative: 004_ori.mp3 ↔ fake_00534_suno_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+004_ori.mp3,fake_05325_udio_0.mp3,0.0,mippia-sonics-negative: 004_ori.mp3 ↔ fake_05325_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+004_ori.mp3,fake_01384_suno_0.mp3,0.0,mippia-sonics-negative: 004_ori.mp3 ↔ fake_01384_suno_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+005_ori.mp3,fake_03501_udio_1.mp3,0.0,mippia-sonics-negative: 005_ori.mp3 ↔ fake_03501_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+005_ori.mp3,fake_04149_udio_0.mp3,0.0,mippia-sonics-negative: 005_ori.mp3 ↔ fake_04149_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+005_ori.mp3,fake_00838_suno_1.mp3,0.0,mippia-sonics-negative: 005_ori.mp3 ↔ fake_00838_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+005_ori.mp3,fake_02139_udio_1.mp3,0.0,mippia-sonics-negative: 005_ori.mp3 ↔ fake_02139_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+009_ori.mp3,fake_00838_suno_1.mp3,0.0,mippia-sonics-negative: 009_ori.mp3 ↔ fake_00838_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+009_ori.mp3,fake_02550_suno_0.mp3,0.0,mippia-sonics-negative: 009_ori.mp3 ↔ fake_02550_suno_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+009_ori.mp3,fake_00127_suno_1.mp3,0.0,mippia-sonics-negative: 009_ori.mp3 ↔ fake_00127_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+009_ori.mp3,fake_02224_suno_1.mp3,0.0,mippia-sonics-negative: 009_ori.mp3 ↔ fake_02224_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+011_ori.mp3,fake_04561_suno_0.mp3,0.0,mippia-sonics-negative: 011_ori.mp3 ↔ fake_04561_suno_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+011_ori.mp3,fake_03298_udio_0.mp3,0.0,mippia-sonics-negative: 011_ori.mp3 ↔ fake_03298_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+011_ori.mp3,fake_01872_udio_1.mp3,0.0,mippia-sonics-negative: 011_ori.mp3 ↔ fake_01872_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+011_ori.mp3,fake_03168_udio_1.mp3,0.0,mippia-sonics-negative: 011_ori.mp3 ↔ fake_03168_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+013_ori.mp3,fake_04298_suno_0.mp3,0.0,mippia-sonics-negative: 013_ori.mp3 ↔ fake_04298_suno_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+013_ori.mp3,fake_02200_suno_0.mp3,0.0,mippia-sonics-negative: 013_ori.mp3 ↔ fake_02200_suno_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+013_ori.mp3,fake_03501_udio_0.mp3,0.0,mippia-sonics-negative: 013_ori.mp3 ↔ fake_03501_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+013_ori.mp3,fake_01124_udio_1.mp3,0.0,mippia-sonics-negative: 013_ori.mp3 ↔ fake_01124_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+014_ori.mp3,fake_03501_udio_0.mp3,0.0,mippia-sonics-negative: 014_ori.mp3 ↔ fake_03501_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+014_ori.mp3,fake_04116_udio_1.mp3,0.0,mippia-sonics-negative: 014_ori.mp3 ↔ fake_04116_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+014_ori.mp3,fake_04970_suno_0.mp3,0.0,mippia-sonics-negative: 014_ori.mp3 ↔ fake_04970_suno_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+014_ori.mp3,fake_01005_suno_0.mp3,0.0,mippia-sonics-negative: 014_ori.mp3 ↔ fake_01005_suno_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+015_ori.mp3,fake_04091_udio_1.mp3,0.0,mippia-sonics-negative: 015_ori.mp3 ↔ fake_04091_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+015_ori.mp3,fake_04561_suno_0.mp3,0.0,mippia-sonics-negative: 015_ori.mp3 ↔ fake_04561_suno_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+015_ori.mp3,fake_03509_udio_1.mp3,0.0,mippia-sonics-negative: 015_ori.mp3 ↔ fake_03509_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+015_ori.mp3,fake_04970_suno_1.mp3,0.0,mippia-sonics-negative: 015_ori.mp3 ↔ fake_04970_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+016_ori.mp3,fake_00582_udio_1.mp3,0.0,mippia-sonics-negative: 016_ori.mp3 ↔ fake_00582_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+016_ori.mp3,fake_04974_udio_0.mp3,0.0,mippia-sonics-negative: 016_ori.mp3 ↔ fake_04974_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+016_ori.mp3,fake_01449_udio_1.mp3,0.0,mippia-sonics-negative: 016_ori.mp3 ↔ fake_01449_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+016_ori.mp3,fake_04561_suno_1.mp3,0.0,mippia-sonics-negative: 016_ori.mp3 ↔ fake_04561_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+017_ori.mp3,fake_02351_suno_1.mp3,0.0,mippia-sonics-negative: 017_ori.mp3 ↔ fake_02351_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+017_ori.mp3,fake_03168_udio_1.mp3,0.0,mippia-sonics-negative: 017_ori.mp3 ↔ fake_03168_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+017_ori.mp3,fake_02602_suno_0.mp3,0.0,mippia-sonics-negative: 017_ori.mp3 ↔ fake_02602_suno_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+017_ori.mp3,fake_00038_udio_1.mp3,0.0,mippia-sonics-negative: 017_ori.mp3 ↔ fake_00038_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+018_ori.mp3,fake_04149_udio_0.mp3,0.0,mippia-sonics-negative: 018_ori.mp3 ↔ fake_04149_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+018_ori.mp3,fake_03509_udio_0.mp3,0.0,mippia-sonics-negative: 018_ori.mp3 ↔ fake_03509_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+018_ori.mp3,fake_03501_udio_1.mp3,0.0,mippia-sonics-negative: 018_ori.mp3 ↔ fake_03501_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+018_ori.mp3,fake_03743_suno_0.mp3,0.0,mippia-sonics-negative: 018_ori.mp3 ↔ fake_03743_suno_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+019_ori.mp3,fake_04663_udio_1.mp3,0.0,mippia-sonics-negative: 019_ori.mp3 ↔ fake_04663_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+019_ori.mp3,fake_03963_udio_1.mp3,0.0,mippia-sonics-negative: 019_ori.mp3 ↔ fake_03963_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+019_ori.mp3,fake_02352_udio_1.mp3,0.0,mippia-sonics-negative: 019_ori.mp3 ↔ fake_02352_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+019_ori.mp3,fake_04116_udio_0.mp3,0.0,mippia-sonics-negative: 019_ori.mp3 ↔ fake_04116_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+020_ori.mp3,fake_04853_suno_0.mp3,0.0,mippia-sonics-negative: 020_ori.mp3 ↔ fake_04853_suno_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+020_ori.mp3,fake_05150_udio_1.mp3,0.0,mippia-sonics-negative: 020_ori.mp3 ↔ fake_05150_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+020_ori.mp3,fake_01872_udio_0.mp3,0.0,mippia-sonics-negative: 020_ori.mp3 ↔ fake_01872_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+020_ori.mp3,fake_04853_suno_1.mp3,0.0,mippia-sonics-negative: 020_ori.mp3 ↔ fake_04853_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+021_ori.mp3,fake_03743_suno_0.mp3,0.0,mippia-sonics-negative: 021_ori.mp3 ↔ fake_03743_suno_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+021_ori.mp3,fake_00720_udio_1.mp3,0.0,mippia-sonics-negative: 021_ori.mp3 ↔ fake_00720_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+021_ori.mp3,fake_03501_udio_1.mp3,0.0,mippia-sonics-negative: 021_ori.mp3 ↔ fake_03501_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+021_ori.mp3,fake_01634_udio_1.mp3,0.0,mippia-sonics-negative: 021_ori.mp3 ↔ fake_01634_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+022_ori.mp3,fake_02961_udio_1.mp3,0.0,mippia-sonics-negative: 022_ori.mp3 ↔ fake_02961_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+022_ori.mp3,fake_02351_suno_0.mp3,0.0,mippia-sonics-negative: 022_ori.mp3 ↔ fake_02351_suno_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+022_ori.mp3,fake_04520_suno_1.mp3,0.0,mippia-sonics-negative: 022_ori.mp3 ↔ fake_04520_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+022_ori.mp3,fake_01927_suno_1.mp3,0.0,mippia-sonics-negative: 022_ori.mp3 ↔ fake_01927_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+024_ori.mp3,fake_04091_udio_1.mp3,0.0,mippia-sonics-negative: 024_ori.mp3 ↔ fake_04091_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+024_ori.mp3,fake_02602_suno_0.mp3,0.0,mippia-sonics-negative: 024_ori.mp3 ↔ fake_02602_suno_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+024_ori.mp3,fake_03997_suno_1.mp3,0.0,mippia-sonics-negative: 024_ori.mp3 ↔ fake_03997_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+024_ori.mp3,fake_01271_udio_0.mp3,0.0,mippia-sonics-negative: 024_ori.mp3 ↔ fake_01271_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+025_ori.mp3,fake_03743_suno_1.mp3,0.0,mippia-sonics-negative: 025_ori.mp3 ↔ fake_03743_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+025_ori.mp3,fake_05325_udio_1.mp3,0.0,mippia-sonics-negative: 025_ori.mp3 ↔ fake_05325_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+025_ori.mp3,fake_01634_udio_0.mp3,0.0,mippia-sonics-negative: 025_ori.mp3 ↔ fake_01634_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+025_ori.mp3,fake_02550_suno_1.mp3,0.0,mippia-sonics-negative: 025_ori.mp3 ↔ fake_02550_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+027_ori.mp3,fake_00289_suno_1.mp3,0.0,mippia-sonics-negative: 027_ori.mp3 ↔ fake_00289_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+027_ori.mp3,fake_04161_suno_1.mp3,0.0,mippia-sonics-negative: 027_ori.mp3 ↔ fake_04161_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+027_ori.mp3,fake_05150_udio_0.mp3,0.0,mippia-sonics-negative: 027_ori.mp3 ↔ fake_05150_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+027_ori.mp3,fake_01900_suno_1.mp3,0.0,mippia-sonics-negative: 027_ori.mp3 ↔ fake_01900_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+029_ori.mp3,fake_04400_suno_1.mp3,0.0,mippia-sonics-negative: 029_ori.mp3 ↔ fake_04400_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+029_ori.mp3,fake_02059_udio_1.mp3,0.0,mippia-sonics-negative: 029_ori.mp3 ↔ fake_02059_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+029_ori.mp3,fake_01927_suno_1.mp3,0.0,mippia-sonics-negative: 029_ori.mp3 ↔ fake_01927_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+029_ori.mp3,fake_05136_udio_1.mp3,0.0,mippia-sonics-negative: 029_ori.mp3 ↔ fake_05136_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+032_ori.mp3,fake_02669_udio_1.mp3,0.0,mippia-sonics-negative: 032_ori.mp3 ↔ fake_02669_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+032_ori.mp3,fake_05270_udio_0.mp3,0.0,mippia-sonics-negative: 032_ori.mp3 ↔ fake_05270_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+032_ori.mp3,fake_04149_udio_0.mp3,0.0,mippia-sonics-negative: 032_ori.mp3 ↔ fake_04149_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+032_ori.mp3,fake_04792_udio_0.mp3,0.0,mippia-sonics-negative: 032_ori.mp3 ↔ fake_04792_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+034_ori.mp3,fake_05136_udio_1.mp3,0.0,mippia-sonics-negative: 034_ori.mp3 ↔ fake_05136_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+034_ori.mp3,fake_02351_suno_1.mp3,0.0,mippia-sonics-negative: 034_ori.mp3 ↔ fake_02351_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+034_ori.mp3,fake_04970_suno_0.mp3,0.0,mippia-sonics-negative: 034_ori.mp3 ↔ fake_04970_suno_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+034_ori.mp3,fake_05325_udio_0.mp3,0.0,mippia-sonics-negative: 034_ori.mp3 ↔ fake_05325_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+037_ori.mp3,fake_04974_udio_0.mp3,0.0,mippia-sonics-negative: 037_ori.mp3 ↔ fake_04974_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+037_ori.mp3,fake_00582_udio_0.mp3,0.0,mippia-sonics-negative: 037_ori.mp3 ↔ fake_00582_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+037_ori.mp3,fake_03298_udio_0.mp3,0.0,mippia-sonics-negative: 037_ori.mp3 ↔ fake_03298_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+037_ori.mp3,fake_04663_udio_1.mp3,0.0,mippia-sonics-negative: 037_ori.mp3 ↔ fake_04663_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+043_ori.mp3,fake_00373_udio_0.mp3,0.0,mippia-sonics-negative: 043_ori.mp3 ↔ fake_00373_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+043_ori.mp3,fake_00433_suno_1.mp3,0.0,mippia-sonics-negative: 043_ori.mp3 ↔ fake_00433_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+043_ori.mp3,fake_01192_udio_0.mp3,0.0,mippia-sonics-negative: 043_ori.mp3 ↔ fake_01192_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+043_ori.mp3,fake_03997_suno_1.mp3,0.0,mippia-sonics-negative: 043_ori.mp3 ↔ fake_03997_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+045_ori.mp3,fake_01192_udio_1.mp3,0.0,mippia-sonics-negative: 045_ori.mp3 ↔ fake_01192_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+045_ori.mp3,fake_02351_suno_1.mp3,0.0,mippia-sonics-negative: 045_ori.mp3 ↔ fake_02351_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+045_ori.mp3,fake_00426_udio_0.mp3,0.0,mippia-sonics-negative: 045_ori.mp3 ↔ fake_00426_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+045_ori.mp3,fake_03509_udio_0.mp3,0.0,mippia-sonics-negative: 045_ori.mp3 ↔ fake_03509_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+047_ori.mp3,fake_02602_suno_1.mp3,0.0,mippia-sonics-negative: 047_ori.mp3 ↔ fake_02602_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+047_ori.mp3,fake_02867_udio_1.mp3,0.0,mippia-sonics-negative: 047_ori.mp3 ↔ fake_02867_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+047_ori.mp3,fake_02059_udio_1.mp3,0.0,mippia-sonics-negative: 047_ori.mp3 ↔ fake_02059_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+047_ori.mp3,fake_04663_udio_1.mp3,0.0,mippia-sonics-negative: 047_ori.mp3 ↔ fake_04663_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+052_ori.mp3,fake_05150_udio_1.mp3,0.0,mippia-sonics-negative: 052_ori.mp3 ↔ fake_05150_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+052_ori.mp3,fake_02351_suno_0.mp3,0.0,mippia-sonics-negative: 052_ori.mp3 ↔ fake_02351_suno_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+052_ori.mp3,fake_00426_udio_0.mp3,0.0,mippia-sonics-negative: 052_ori.mp3 ↔ fake_00426_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+052_ori.mp3,fake_05351_suno_1.mp3,0.0,mippia-sonics-negative: 052_ori.mp3 ↔ fake_05351_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+053_ori.mp3,fake_02059_udio_0.mp3,0.0,mippia-sonics-negative: 053_ori.mp3 ↔ fake_02059_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+053_ori.mp3,fake_05325_udio_1.mp3,0.0,mippia-sonics-negative: 053_ori.mp3 ↔ fake_05325_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+053_ori.mp3,fake_00685_udio_1.mp3,0.0,mippia-sonics-negative: 053_ori.mp3 ↔ fake_00685_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+053_ori.mp3,fake_00127_suno_1.mp3,0.0,mippia-sonics-negative: 053_ori.mp3 ↔ fake_00127_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+054_ori.mp3,fake_05150_udio_1.mp3,0.0,mippia-sonics-negative: 054_ori.mp3 ↔ fake_05150_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+054_ori.mp3,fake_01872_udio_0.mp3,0.0,mippia-sonics-negative: 054_ori.mp3 ↔ fake_01872_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+054_ori.mp3,fake_05225_suno_0.mp3,0.0,mippia-sonics-negative: 054_ori.mp3 ↔ fake_05225_suno_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+054_ori.mp3,fake_00582_udio_0.mp3,0.0,mippia-sonics-negative: 054_ori.mp3 ↔ fake_00582_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+055_ori.mp3,fake_04561_suno_1.mp3,0.0,mippia-sonics-negative: 055_ori.mp3 ↔ fake_04561_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+055_ori.mp3,fake_02669_udio_0.mp3,0.0,mippia-sonics-negative: 055_ori.mp3 ↔ fake_02669_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+055_ori.mp3,fake_01357_suno_0.mp3,0.0,mippia-sonics-negative: 055_ori.mp3 ↔ fake_01357_suno_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+055_ori.mp3,fake_01634_udio_0.mp3,0.0,mippia-sonics-negative: 055_ori.mp3 ↔ fake_01634_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+056_ori.mp3,fake_00582_udio_1.mp3,0.0,mippia-sonics-negative: 056_ori.mp3 ↔ fake_00582_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+056_ori.mp3,fake_00534_suno_0.mp3,0.0,mippia-sonics-negative: 056_ori.mp3 ↔ fake_00534_suno_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+056_ori.mp3,fake_00251_udio_0.mp3,0.0,mippia-sonics-negative: 056_ori.mp3 ↔ fake_00251_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+056_ori.mp3,fake_05150_udio_1.mp3,0.0,mippia-sonics-negative: 056_ori.mp3 ↔ fake_05150_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+057_ori.mp3,fake_02385_suno_0.mp3,0.0,mippia-sonics-negative: 057_ori.mp3 ↔ fake_02385_suno_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+057_ori.mp3,fake_02602_suno_0.mp3,0.0,mippia-sonics-negative: 057_ori.mp3 ↔ fake_02602_suno_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+057_ori.mp3,fake_02550_suno_0.mp3,0.0,mippia-sonics-negative: 057_ori.mp3 ↔ fake_02550_suno_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+057_ori.mp3,fake_05225_suno_0.mp3,0.0,mippia-sonics-negative: 057_ori.mp3 ↔ fake_05225_suno_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+058_ori.mp3,fake_00582_udio_1.mp3,0.0,mippia-sonics-negative: 058_ori.mp3 ↔ fake_00582_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+058_ori.mp3,fake_02867_udio_0.mp3,0.0,mippia-sonics-negative: 058_ori.mp3 ↔ fake_02867_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+058_ori.mp3,fake_04792_udio_0.mp3,0.0,mippia-sonics-negative: 058_ori.mp3 ↔ fake_04792_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+058_ori.mp3,fake_02669_udio_0.mp3,0.0,mippia-sonics-negative: 058_ori.mp3 ↔ fake_02669_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+060_ori.mp3,fake_00838_suno_0.mp3,0.0,mippia-sonics-negative: 060_ori.mp3 ↔ fake_00838_suno_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+060_ori.mp3,fake_02385_suno_1.mp3,0.0,mippia-sonics-negative: 060_ori.mp3 ↔ fake_02385_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+060_ori.mp3,fake_01271_udio_1.mp3,0.0,mippia-sonics-negative: 060_ori.mp3 ↔ fake_01271_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+060_ori.mp3,fake_05351_suno_1.mp3,0.0,mippia-sonics-negative: 060_ori.mp3 ↔ fake_05351_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+061_ori.mp3,fake_05351_suno_0.mp3,0.0,mippia-sonics-negative: 061_ori.mp3 ↔ fake_05351_suno_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+061_ori.mp3,fake_02961_udio_0.mp3,0.0,mippia-sonics-negative: 061_ori.mp3 ↔ fake_02961_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+061_ori.mp3,fake_03963_udio_1.mp3,0.0,mippia-sonics-negative: 061_ori.mp3 ↔ fake_03963_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+061_ori.mp3,fake_01436_udio_1.mp3,0.0,mippia-sonics-negative: 061_ori.mp3 ↔ fake_01436_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+062_ori.mp3,fake_01449_udio_1.mp3,0.0,mippia-sonics-negative: 062_ori.mp3 ↔ fake_01449_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+062_ori.mp3,fake_05202_suno_1.mp3,0.0,mippia-sonics-negative: 062_ori.mp3 ↔ fake_05202_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+062_ori.mp3,fake_00289_suno_0.mp3,0.0,mippia-sonics-negative: 062_ori.mp3 ↔ fake_00289_suno_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+062_ori.mp3,fake_01005_suno_1.mp3,0.0,mippia-sonics-negative: 062_ori.mp3 ↔ fake_01005_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+063_ori.mp3,fake_00838_suno_1.mp3,0.0,mippia-sonics-negative: 063_ori.mp3 ↔ fake_00838_suno_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+063_ori.mp3,fake_04663_udio_0.mp3,0.0,mippia-sonics-negative: 063_ori.mp3 ↔ fake_04663_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+063_ori.mp3,fake_00910_udio_0.mp3,0.0,mippia-sonics-negative: 063_ori.mp3 ↔ fake_00910_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+063_ori.mp3,fake_00613_udio_1.mp3,0.0,mippia-sonics-negative: 063_ori.mp3 ↔ fake_00613_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+066_ori.mp3,fake_01192_udio_1.mp3,0.0,mippia-sonics-negative: 066_ori.mp3 ↔ fake_01192_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+066_ori.mp3,fake_02669_udio_0.mp3,0.0,mippia-sonics-negative: 066_ori.mp3 ↔ fake_02669_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+066_ori.mp3,fake_00251_udio_1.mp3,0.0,mippia-sonics-negative: 066_ori.mp3 ↔ fake_00251_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+066_ori.mp3,fake_02669_udio_1.mp3,0.0,mippia-sonics-negative: 066_ori.mp3 ↔ fake_02669_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True
+069_ori.mp3,fake_00582_udio_0.mp3,0.0,mippia-sonics-negative: 069_ori.mp3 ↔ fake_00582_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+069_ori.mp3,fake_01271_udio_0.mp3,0.0,mippia-sonics-negative: 069_ori.mp3 ↔ fake_01271_udio_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+069_ori.mp3,fake_01900_suno_0.mp3,0.0,mippia-sonics-negative: 069_ori.mp3 ↔ fake_01900_suno_0.mp3,mippia_sonics_negative,mippia_sonics,True,True
+069_ori.mp3,fake_05150_udio_1.mp3,0.0,mippia-sonics-negative: 069_ori.mp3 ↔ fake_05150_udio_1.mp3,mippia_sonics_negative,mippia_sonics,True,True

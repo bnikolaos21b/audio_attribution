@@ -1,0 +1,11 @@
+{
+  "mu_pos": 0.935767,
+  "sigma_pos": 0.018309,
+  "mu_neg": 0.924318,
+  "sigma_neg": 0.017772,
+  "pi_pos": 0.5,
+  "n_pos": 40,
+  "n_neg": 40,
+  "note": "Fitted from results/sonics/sonics_all_scores.csv raw_score column. 40 positive pairs (same-base-ID SONICS pairs), 40 negative pairs.",
+  "fit_method": "MLE: sample mean and std per class"
+}

@@ -1,0 +1,33 @@
+{
+  "feature_names": [
+    "mert_cosine",
+    "mean_hnr",
+    "mean_lufs",
+    "mean_autocorr"
+  ],
+  "scaler_mean": [
+    0.9300426932374677,
+    11.625718913972378,
+    -12.585453001975347,
+    0.23781752573731135
+  ],
+  "scaler_std": [
+    0.018928547375736376,
+    8.232016600974307,
+    2.786454231221203,
+    0.07129188864020868
+  ],
+  "coef": [
+    0.8880772006071329,
+    0.36944706338729716,
+    -0.2955725238076011,
+    -0.12474669382222235
+  ],
+  "intercept": -0.005564193604133303,
+  "auc_train": 0.7131,
+  "auc_cv5": 0.6219,
+  "auc_mert_alone": 0.6656,
+  "n_pos": 40,
+  "n_neg": 40,
+  "note": "LR trained on 80 SONICS pairs (parts 01-02). Standardise features then apply coef+intercept+sigmoid."
+}

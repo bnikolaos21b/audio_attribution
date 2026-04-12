@@ -1,0 +1,23 @@
+# GPU environment required for feature extraction (torchaudio + MERT/CLAP)
+# Tested on Google Colab T4. CPU inference works for compute_similarity().
+# Versions pinned to the development environment (Python 3.11, Colab T4).
+# Install: pip install -r requirements.txt
+
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.5.2
+scipy>=1.11.0
+torch==2.6.0
+torchaudio>=2.0.0
+transformers==4.50.0
+accelerate>=0.20.0
+librosa==0.11.0
+pyloudnorm>=0.1.0
+matplotlib>=3.7.0
+
+# Auto mode additional dependencies (not needed for --mode sonics):
+openai-whisper>=20231117
+sentence-transformers>=2.2.0
+
+# Experiment scripts only (not required for the main pipeline):
+# basic-pitch>=0.3.0  # melody_contour_experiment.py only

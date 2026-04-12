@@ -1,0 +1,70 @@
+{
+  "real_folk_all_vs_all": {
+    "mean": 0.90915,
+    "std": 0.02288,
+    "min": 0.86519,
+    "max": 0.93773,
+    "variance": 0.000524,
+    "n": 20
+  },
+  "sonics_positive": {
+    "mean": 0.93577,
+    "std": 0.01854,
+    "min": 0.88895,
+    "max": 0.97133,
+    "variance": 0.000344,
+    "n": 40
+  },
+  "sonics_negative": {
+    "mean": 0.92432,
+    "std": 0.018,
+    "min": 0.87913,
+    "max": 0.95229,
+    "variance": 0.000324,
+    "n": 40
+  },
+  "negative_by_engine": {
+    "suno_vs_suno": {
+      "mean": 0.91867,
+      "std": 0.01329,
+      "min": 0.89461,
+      "max": 0.93748,
+      "n": 12
+    },
+    "suno_vs_udio": {
+      "mean": 0.92386,
+      "std": 0.021,
+      "min": 0.87913,
+      "max": 0.94537,
+      "n": 12
+    },
+    "udio_vs_suno": {
+      "mean": 0.92411,
+      "std": 0.01881,
+      "min": 0.89956,
+      "max": 0.9506,
+      "n": 9
+    },
+    "udio_vs_udio": {
+      "mean": 0.93506,
+      "std": 0.01738,
+      "min": 0.90583,
+      "max": 0.95229,
+      "n": 7
+    }
+  },
+  "real_centroid": {
+    "mean_sim": 0.96293,
+    "std_sim": 0.01124,
+    "per_file": {
+      "real_Bob_Dylan_-_Blowin_in_the_Wind_Official_Audio.mp3": 0.96092,
+      "real_Diamonds_And_Rust.mp3": 0.97187,
+      "real_Puff_the_Magic_Dragon.mp3": 0.94202,
+      "real_Simon_Garfunkel_-_The_Sounds_of_Silence_Audio.mp3": 0.97245,
+      "real_Wild_World.mp3": 0.96738
+    }
+  },
+  "gap": 0.01145,
+  "cone_angle_deg": 21.6,
+  "n_real_folk": 5
+}

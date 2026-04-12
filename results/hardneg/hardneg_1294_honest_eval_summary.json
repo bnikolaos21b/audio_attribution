@@ -1,0 +1,46 @@
+{
+  "model_path": "models/siamese_custom_1294_hardneg_best.pt",
+  "mippia_feature_dir_1294": "features/",
+  "train_table_csv": "data/pairs/hardneg_mippia_feature_pairs_1294.csv",
+  "usable_mippia_pairs": 57,
+  "relation_counts": {
+    "plag": 23,
+    "plag_doubt": 18,
+    "remake": 16
+  },
+  "hard_negatives_mined": 78,
+  "mean": {
+    "n_test_pairs": 18.0,
+    "n_eval_pos": 12.0,
+    "n_eval_neg": 12.0,
+    "roc_auc": 0.634722,
+    "pr_auc": 0.648281,
+    "accuracy_default": 0.5875,
+    "precision_default": 0.573683,
+    "recall_default": 0.725,
+    "f1_default": 0.6354,
+    "best_threshold": 0.470386,
+    "accuracy_calibrated": 0.654167,
+    "precision_calibrated": 0.610997,
+    "recall_calibrated": 0.9,
+    "f1_calibrated": 0.723514
+  },
+  "std": {
+    "n_test_pairs": 0.0,
+    "n_eval_pos": 0.0,
+    "n_eval_neg": 0.0,
+    "roc_auc": 0.073362,
+    "pr_auc": 0.067883,
+    "accuracy_default": 0.077205,
+    "precision_default": 0.074101,
+    "recall_default": 0.130585,
+    "f1_default": 0.070458,
+    "best_threshold": 0.028858,
+    "accuracy_calibrated": 0.062268,
+    "precision_calibrated": 0.062812,
+    "recall_calibrated": 0.076578,
+    "f1_calibrated": 0.03451
+  },
+  "results_csv": "results/hardneg/hardneg_1294_honest_eval_multi_seed.csv",
+  "scores_json": "not-available"
+}
